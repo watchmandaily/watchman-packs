@@ -103,16 +103,16 @@
   {
    "app": "prophecy-pulse",
    "lang": "th",
-   "version": "1.0.0",
-   "sha256": "84d49177c6486569d4b4c804cfa1454545196c6e8d04dff4f139575016f7194e",
-   "size": 41944,
+   "version": "1.0.1",
+   "sha256": "533199fecd6ec3ce1c89c3f0b0c982887c483d865c4f31878e193ece5e7f6433",
+   "size": 41962,
    "bibleId": "thfb",
    "license": "public-domain",
    "attribution": "Thai Freedom Bible 2026 (eBible.org thafb, https://ebible.org/find/details.php?id=thafb), public domain, a draft translation; footnotes removed. Daniel, Ezekiel, Hosea, Joel, Amos and Zechariah (not yet in thafb), and the Revelation verses where thafb follows a different Greek text from the KJV, are Watchman Media's own Thai translation of the King James Version, independent of the Thai 1940/1971 texts. Each verse in data/th-fbkjv.json is marked src \"thafb\" or \"kjv-th\".",
    "minAppVersion": "1.0.0",
    "name": "Thai",
    "nativeName": "ไทย",
-   "path": "th/1.0.0/pack.json"
+   "path": "th/1.0.1/pack.json"
   }
  ]
 }
