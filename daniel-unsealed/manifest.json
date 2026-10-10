@@ -74,6 +74,20 @@
   },
   {
    "app": "daniel-unsealed",
+   "lang": "pt",
+   "version": "1.0.0",
+   "sha256": "aa53285550fc3ea6ba557c4e8cd72839359a4c755eb290d59078e31a5b0e2a55",
+   "size": 147808,
+   "bibleId": "almeida1911",
+   "license": "GPL",
+   "attribution": "Almeida 1911 (João Ferreira de Almeida; 1911 reprint of the 1900 Lisbon edition). CrossWire SWORD module PorAlmeida1911 v0.2.1, distributed under the GNU GPL. https://www.crosswire.org/sword/modules/ModInfo.jsp?modName=PorAlmeida1911",
+   "minAppVersion": "1.0.0",
+   "name": "Portuguese",
+   "nativeName": "Português",
+   "path": "pt/1.0.0/pack.json"
+  },
+  {
+   "app": "daniel-unsealed",
    "lang": "zh",
    "version": "1.0.2",
    "sha256": "9ad99e6327126b037df87d2df8e79b81e3e5b9a72467166b97d05a83a82af3ad",
