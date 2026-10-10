@@ -1,0 +1,90 @@
+{
+ "app": "prophecy-pulse",
+ "generated": "2026-10-10T20:38:10.939Z",
+ "packs": [
+  {
+   "app": "prophecy-pulse",
+   "lang": "ar",
+   "version": "1.0.1",
+   "sha256": "655bb2e4693c1ffe40c4b073298ef79a4386e24b40c0a1f93251559a9e7b110b",
+   "size": 27217,
+   "bibleId": "svd",
+   "license": "public-domain",
+   "attribution": "Smith-Van Dyck Arabic Bible (1865), public domain. Text: eBible.org arb-vd (https://ebible.org/find/details.php?id=arb-vd), translated by the Syrian Mission, contributed by the American Bible Society",
+   "minAppVersion": "1.0.0",
+   "name": "Arabic",
+   "nativeName": "العربية",
+   "path": "ar/1.0.1/pack.json"
+  },
+  {
+   "app": "prophecy-pulse",
+   "lang": "de",
+   "version": "1.0.1",
+   "sha256": "c97fff23548db1d2d59f447c47c46962e4cc3fa5038caf92bb6e0a5c60c7a23c",
+   "size": 18676,
+   "bibleId": "luther1912",
+   "license": "public-domain",
+   "attribution": "Luther 1912, public domain. Text: eBible.org deu1912 (https://ebible.org/find/details.php?id=deu1912)",
+   "minAppVersion": "1.0.0",
+   "name": "German",
+   "nativeName": "Deutsch",
+   "path": "de/1.0.1/pack.json"
+  },
+  {
+   "app": "prophecy-pulse",
+   "lang": "es",
+   "version": "1.0.1",
+   "sha256": "b2db3ce825b034465da0ca02fdeb47612af7479a02998fe404ecad74e17ec7e6",
+   "size": 18049,
+   "bibleId": "rv1909",
+   "license": "public-domain",
+   "attribution": "Reina-Valera 1909, public domain. Text: eBible.org spaRV1909 (https://ebible.org/find/details.php?id=spaRV1909)",
+   "minAppVersion": "1.0.0",
+   "name": "Spanish",
+   "nativeName": "Español",
+   "path": "es/1.0.1/pack.json"
+  },
+  {
+   "app": "prophecy-pulse",
+   "lang": "fr",
+   "version": "1.0.1",
+   "sha256": "59ee02a7c10f2b75a50d98924fd315050246cdad6988770cdf00fbcb917ce3bd",
+   "size": 18791,
+   "bibleId": "lsg",
+   "license": "public-domain",
+   "attribution": "Louis Segond 1910, public domain. Text: eBible.org fraLSG (https://ebible.org/find/details.php?id=fraLSG)",
+   "minAppVersion": "1.0.0",
+   "name": "French",
+   "nativeName": "Français",
+   "path": "fr/1.0.1/pack.json"
+  },
+  {
+   "app": "prophecy-pulse",
+   "lang": "hi",
+   "version": "1.0.2",
+   "sha256": "fce4987927b2eea38846577859b0fd79a79c50c4060cc816dce54943c4f6653a",
+   "size": 36167,
+   "bibleId": "irv",
+   "license": "CC BY-SA 4.0",
+   "attribution": "Indian Revised Version (IRV) Hindi 2019, copyright © 2017, 2018, 2019 Bridge Connectivity Solutions Pvt. Ltd. Licensed under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/). Text: eBible.org hin2017 (https://ebible.org/find/details.php?id=hin2017). Changes: footnotes and cross-references removed; arranged in KJV verse numbering (Rev 1:17-18, Rev 12:18 + 13:1). Not endorsed by the licensor.",
+   "minAppVersion": "1.0.0",
+   "name": "Hindi",
+   "nativeName": "हिन्दी",
+   "path": "hi/1.0.2/pack.json"
+  },
+  {
+   "app": "prophecy-pulse",
+   "lang": "zh",
+   "version": "1.0.2",
+   "sha256": "679efb5b41686a2a3566adf85f562649e9f4b7c9b3824c6d3036cd85bd3c0ba6",
+   "size": 17825,
+   "bibleId": "cuv1919",
+   "license": "public-domain",
+   "attribution": "Chinese Union Version, Mandarin (官話和合譯本), 1919 first edition, public domain. Text: Chinese Wikisource (https://zh.wikisource.org/wiki/聖經_(和合本)), converted to simplified characters (OpenCC t2s + hand fixes); cross-checked with bible.fhl.net cumv",
+   "minAppVersion": "1.0.0",
+   "name": "Chinese",
+   "nativeName": "中文",
+   "path": "zh/1.0.2/pack.json"
+  }
+ ]
+}

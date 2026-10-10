@@ -1,0 +1,90 @@
+{
+ "app": "daniel-unsealed",
+ "generated": "2026-10-10T20:38:12.648Z",
+ "packs": [
+  {
+   "app": "daniel-unsealed",
+   "lang": "ar",
+   "version": "1.0.1",
+   "sha256": "cd334267f5329c65d25f59b607f2ca57dcb4f95b3b52a06b30f3c2540c6ffb95",
+   "size": 277820,
+   "bibleId": "svd",
+   "license": "public-domain",
+   "attribution": "Smith-Van Dyck Arabic Bible (1865), public domain. Text: eBible.org arb-vd (https://ebible.org/find/details.php?id=arb-vd), translated by the Syrian Mission, contributed by the American Bible Society",
+   "minAppVersion": "1.0.0",
+   "name": "Arabic",
+   "nativeName": "العربية",
+   "path": "ar/1.0.1/pack.json"
+  },
+  {
+   "app": "daniel-unsealed",
+   "lang": "de",
+   "version": "1.0.1",
+   "sha256": "5607afca68bf1a0dcffccdd9b803506d2de42fb87f6768519b64a4186c76af77",
+   "size": 163380,
+   "bibleId": "luther1912",
+   "license": "public-domain",
+   "attribution": "Luther 1912, public domain. Text: eBible.org deu1912 (https://ebible.org/find/details.php?id=deu1912)",
+   "minAppVersion": "1.0.0",
+   "name": "German",
+   "nativeName": "Deutsch",
+   "path": "de/1.0.1/pack.json"
+  },
+  {
+   "app": "daniel-unsealed",
+   "lang": "es",
+   "version": "1.0.1",
+   "sha256": "43ffc1b57fe622c7cce88489fd210e8e2d079ca37674175aa65971686847f2e5",
+   "size": 158151,
+   "bibleId": "rv1909",
+   "license": "public-domain",
+   "attribution": "Reina-Valera 1909, public domain. Text: eBible.org spaRV1909 (https://ebible.org/find/details.php?id=spaRV1909)",
+   "minAppVersion": "1.0.0",
+   "name": "Spanish",
+   "nativeName": "Español",
+   "path": "es/1.0.1/pack.json"
+  },
+  {
+   "app": "daniel-unsealed",
+   "lang": "fr",
+   "version": "1.0.1",
+   "sha256": "a88daf3c71138ce6bc39af290117b952142f957cf771fc8ebcedc47fe5b0eb22",
+   "size": 168409,
+   "bibleId": "lsg",
+   "license": "public-domain",
+   "attribution": "Louis Segond 1910, public domain. Text: eBible.org fraLSG (https://ebible.org/find/details.php?id=fraLSG)",
+   "minAppVersion": "1.0.0",
+   "name": "French",
+   "nativeName": "Français",
+   "path": "fr/1.0.1/pack.json"
+  },
+  {
+   "app": "daniel-unsealed",
+   "lang": "hi",
+   "version": "1.0.2",
+   "sha256": "d42336887458dc2219fecf5f0ccd1c33f09d3626c2f358e4cd31c906c3d4639f",
+   "size": 340469,
+   "bibleId": "irv",
+   "license": "CC BY-SA 4.0",
+   "attribution": "Indian Revised Version (IRV) Hindi 2019, copyright © 2017, 2018, 2019 Bridge Connectivity Solutions Pvt. Ltd. Licensed under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/). Text: eBible.org hin2017 (https://ebible.org/find/details.php?id=hin2017). Changes: footnotes and cross-references removed; arranged in KJV verse numbering (Rev 1:17-18, Rev 12:18 + 13:1). Not endorsed by the licensor.",
+   "minAppVersion": "1.0.0",
+   "name": "Hindi",
+   "nativeName": "हिन्दी",
+   "path": "hi/1.0.2/pack.json"
+  },
+  {
+   "app": "daniel-unsealed",
+   "lang": "zh",
+   "version": "1.0.2",
+   "sha256": "9ad99e6327126b037df87d2df8e79b81e3e5b9a72467166b97d05a83a82af3ad",
+   "size": 130787,
+   "bibleId": "cuv1919",
+   "license": "public-domain",
+   "attribution": "Chinese Union Version, Mandarin (官話和合譯本), 1919 first edition, public domain. Text: Chinese Wikisource (https://zh.wikisource.org/wiki/聖經_(和合本)), converted to simplified characters (OpenCC t2s + hand fixes); cross-checked with bible.fhl.net cumv",
+   "minAppVersion": "1.0.0",
+   "name": "Chinese",
+   "nativeName": "中文",
+   "path": "zh/1.0.2/pack.json"
+  }
+ ]
+}
