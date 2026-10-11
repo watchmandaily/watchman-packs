@@ -1,6 +1,6 @@
 {
  "app": "daniel-unsealed",
- "generated": "2026-10-11T01:01:32.353Z",
+ "generated": "2026-10-11T07:30:58.503Z",
  "packs": [
   {
    "app": "daniel-unsealed",
@@ -75,30 +75,30 @@
   {
    "app": "daniel-unsealed",
    "lang": "ja",
-   "version": "1.0.1",
-   "sha256": "fb8b1b459dd8daa8156277155c32a4cf2c186b31ad20b3b866f10ea4967b1e48",
-   "size": 179770,
+   "version": "1.0.2",
+   "sha256": "41dd8ae7606df414a9d663ed72fcdf3a303832f7de7d5fff5e5dab2875433499",
+   "size": 186283,
    "bibleId": "meiji",
    "license": "public-domain",
    "attribution": "Meiji Bible (明治元訳; OT 1887, NT 1880), public domain (PD-old). Text: Japanese Wikisource, 明治元訳旧約聖書 (1953 Japan Bible Society printing) and 明治元訳新約聖書 (大正4年, 1915 printing); ruby readings and page numbers removed; obvious transcription typos corrected. Verses marked src \"kjv-ja\" in data/ja-meiji.json (Numbers 24:17, Matthew 24:33-34, Mark 13:29-30, Revelation 18:16-18, and Revelation verses where the Meiji text follows a different Greek text from the KJV) are Watchman Media's own Japanese translation of the King James Version.",
    "minAppVersion": "1.0.0",
    "name": "Japanese",
    "nativeName": "日本語",
-   "path": "ja/1.0.1/pack.json"
+   "path": "ja/1.0.2/pack.json"
   },
   {
    "app": "daniel-unsealed",
    "lang": "ko",
-   "version": "1.0.1",
-   "sha256": "30ed5debabad5670e654d4fcebada18380b97cc81b8e95d32b607f205449bfa3",
-   "size": 194338,
+   "version": "1.0.2",
+   "sha256": "dbb1e3b9268ff201b11d9f0ae58cae5afc994db80b668fb68fd6bae07d642a63",
+   "size": 200392,
    "bibleId": "kor1910",
    "license": "public-domain",
    "attribution": "Korean Bible 1910 (성경전서; Reynolds, 이승두, 김정삼), public domain. Text: eBible.org kor (https://ebible.org/find/details.php?id=kor). Quotation marks removed; Isaiah 27:13, Zechariah 12:3 and Revelation 22:13 repaired where the eBible file is corrupted. Verses marked src \"kjv-ko\" in data/ko-kor1910.json (Matthew 24:33, Mark 13:29, and Revelation verses where the 1910 text follows a different Greek text from the KJV) are Watchman Media's own Korean translation of the King James Version.",
    "minAppVersion": "1.0.0",
    "name": "Korean",
    "nativeName": "한국어",
-   "path": "ko/1.0.1/pack.json"
+   "path": "ko/1.0.2/pack.json"
   },
   {
    "app": "daniel-unsealed",
@@ -117,30 +117,30 @@
   {
    "app": "daniel-unsealed",
    "lang": "th",
-   "version": "1.0.6",
-   "sha256": "7db8877db846c02082bca94b2e65a7e745ebf0f99c8527eff749e8a2a18b454f",
-   "size": 442338,
+   "version": "1.0.8",
+   "sha256": "6a9196e58308e12052418a3fee1bf167747b76d619f52c031ee08943c73c21c7",
+   "size": 455931,
    "bibleId": "thfb",
    "license": "public-domain",
    "attribution": "Thai Freedom Bible 2026 (eBible.org thafb, https://ebible.org/find/details.php?id=thafb), public domain, a draft translation; footnotes removed. Daniel, Ezekiel, Hosea, Joel, Amos and Zechariah (not yet in thafb), and the Revelation verses where thafb follows a different Greek text from the KJV, are Watchman Media's own Thai translation of the King James Version, independent of the Thai 1940/1971 texts. Each verse in data/th-fbkjv.json is marked src \"thafb\" or \"kjv-th\".",
    "minAppVersion": "1.0.0",
    "name": "Thai",
    "nativeName": "ไทย",
-   "path": "th/1.0.6/pack.json"
+   "path": "th/1.0.8/pack.json"
   },
   {
    "app": "daniel-unsealed",
    "lang": "zh",
-   "version": "1.0.8",
-   "sha256": "e33d670a3300a94c40d87d16d20509f059df2e7fa39cf70c9d5b39544d177e67",
-   "size": 147188,
+   "version": "1.0.9",
+   "sha256": "9e7aed899de4877e1d75481ceaac880917250f13822980f6bc37cb1ebcc4079f",
+   "size": 152759,
    "bibleId": "cuv1919",
    "license": "public-domain",
    "attribution": "Chinese Union Version, Mandarin (官話和合譯本), 1919 first edition, public domain. Text: Chinese Wikisource (https://zh.wikisource.org/wiki/聖經_(和合本)), converted to simplified characters (OpenCC t2s + hand fixes); cross-checked with bible.fhl.net cumv",
    "minAppVersion": "1.0.0",
    "name": "Chinese",
    "nativeName": "中文",
-   "path": "zh/1.0.8/pack.json"
+   "path": "zh/1.0.9/pack.json"
   }
  ]
 }
