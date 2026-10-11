@@ -1,6 +1,6 @@
 {
  "app": "prophecy-pulse",
- "generated": "2026-10-11T15:28:12.660Z",
+ "generated": "2026-10-11T15:53:31.521Z",
  "packs": [
   {
    "app": "prophecy-pulse",
@@ -89,16 +89,16 @@
   {
    "app": "prophecy-pulse",
    "lang": "he",
-   "version": "1.0.7",
-   "sha256": "43b6fdba9be8fb08f01202053635a90eeb7948b1aab64d1df6e0f844cf90025b",
-   "size": 39500,
+   "version": "1.0.8",
+   "sha256": "f0bd98c4b80d0566080d621e12fe715075e2a75103b5292402060cc548dd7f1d",
+   "size": 39595,
    "bibleId": "delitzsch",
    "license": "public-domain",
    "attribution": "Old Testament: Westminster Leningrad Codex, public domain (the app's bundled original text via Open Scriptures Hebrew Bible; shown without vowel points or accents). New Testament: Franz Delitzsch Hebrew New Testament, public domain. Text: eBible.org heb (https://ebible.org/find/details.php?id=heb). Matthew 24:33, Titus 2:13 and 2 Peter 3:8 are Watchman Media's own Hebrew renderings of the King James Version (\"it is near, even at the doors\"; \"the glorious appearing of the great God\"; src \"kjv-he\" in data/he-delitzsch.json).",
    "minAppVersion": "1.0.0",
    "name": "Hebrew",
    "nativeName": "עברית",
-   "path": "he/1.0.7/pack.json"
+   "path": "he/1.0.8/pack.json"
   },
   {
    "app": "prophecy-pulse",
@@ -173,16 +173,16 @@
   {
    "app": "prophecy-pulse",
    "lang": "ru",
-   "version": "1.0.5",
-   "sha256": "d74dc6c785f5259084dfcd3807f087a5a63661dabbd8b9dbe2f32a0824a4372c",
-   "size": 51923,
+   "version": "1.0.6",
+   "sha256": "1a8fa9a98535b0d0136f3f058eadbbccba22dac0cb67926047979b90a6b128a4",
+   "size": 51808,
    "bibleId": "synodal",
    "license": "public-domain",
    "attribution": "Russian Synodal Translation (Синодальный перевод; NT 1862, full Bible 1876), public domain. Text: eBible.org russyn (https://ebible.org/find/details.php?id=russyn), modern orthography; quotation marks removed; arranged in KJV verse numbering. Genesis 2:9, Genesis 6:5, Exodus 32:32, Psalm 90:10 (Synodal 89:10), Daniel 9:27, Daniel 12:4 and Ezekiel 38:8 are Watchman Media's own Russian translation of the King James Version (src \"kjv-ru\" in data/ru-synodal.json).",
    "minAppVersion": "1.0.0",
    "name": "Russian",
    "nativeName": "Русский",
-   "path": "ru/1.0.5/pack.json"
+   "path": "ru/1.0.6/pack.json"
   },
   {
    "app": "prophecy-pulse",

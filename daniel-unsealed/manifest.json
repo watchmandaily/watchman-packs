@@ -1,6 +1,6 @@
 {
  "app": "daniel-unsealed",
- "generated": "2026-10-11T10:40:54.562Z",
+ "generated": "2026-10-11T15:53:32.710Z",
  "packs": [
   {
    "app": "daniel-unsealed",
@@ -33,44 +33,44 @@
   {
    "app": "daniel-unsealed",
    "lang": "de",
-   "version": "1.0.12",
-   "sha256": "9d0fbb23684f422082b1e0951a7b56d871c1baa2c71cd08888dc859dc8188e20",
-   "size": 190503,
+   "version": "1.0.13",
+   "sha256": "b7cc26fe43c2f2b48629cdc19bd887f7da5c5b5b090dde6992a41c59c0447285",
+   "size": 190513,
    "bibleId": "luther1912",
    "license": "public-domain",
    "attribution": "Luther 1912, public domain. Text: eBible.org deu1912 (https://ebible.org/find/details.php?id=deu1912); Daniel 12:11 stray semicolon removed. Verses marked src \"kjv-de\" in data/de-luther1912.json (Daniel 2:28, 2:44, 3:25, 7:25, 9:25-26, 12:4, 12:7; Isaiah 66:8; and Revelation 1:8, 6:1-7, 11:17, 12:14, 14:1, 15:3, 16:5, 16:17, 21:3, 22:19) are Watchman Media's own German translation of the King James Version.",
    "minAppVersion": "1.0.0",
    "name": "German",
    "nativeName": "Deutsch",
-   "path": "de/1.0.12/pack.json"
+   "path": "de/1.0.13/pack.json"
   },
   {
    "app": "daniel-unsealed",
    "lang": "es",
-   "version": "1.0.12",
-   "sha256": "95a46a38b6cc1e7a1118e9f4d458a3833cedb9eb57e9cd384631183bba4e8492",
-   "size": 183681,
+   "version": "1.0.13",
+   "sha256": "7529ad1fe16caec187bed7a06991ad83876de8f46bd8b4144023cb34dda270d9",
+   "size": 183693,
    "bibleId": "rv1909",
    "license": "public-domain",
    "attribution": "Reina-Valera 1909, public domain. Text: eBible.org spaRV1909 (https://ebible.org/find/details.php?id=spaRV1909). Daniel 3:25, 8:19, 12:9, Luke 21:20 and Revelation 16:5 are Watchman Media's own Spanish translation of the King James Version (src \"kjv-es\" in data/es-rv1909.json).",
    "minAppVersion": "1.0.0",
    "name": "Spanish",
    "nativeName": "Español",
-   "path": "es/1.0.12/pack.json"
+   "path": "es/1.0.13/pack.json"
   },
   {
    "app": "daniel-unsealed",
    "lang": "fr",
-   "version": "1.0.12",
-   "sha256": "a668eb81354474f8fda262d8cc143d35540baf9189821dda840c83c72e33be8e",
-   "size": 196457,
+   "version": "1.0.13",
+   "sha256": "fd76e17dd0d09c92984936119b81be6f41fd0f416bf567e92c7559e9e1476659",
+   "size": 196475,
    "bibleId": "lsg",
    "license": "public-domain",
    "attribution": "Louis Segond 1910, public domain. Text: eBible.org fraLSG (https://ebible.org/find/details.php?id=fraLSG). Verses marked src \"kjv-fr\" in data/fr-lsg.json (Daniel 2:28, 3:25, 9:25-27, 11:32, 12:4; Ezekiel 38:8, 38:16; Psalm 90:10; Matthew 24:33, 36; Mark 13:29; 2 Thessalonians 2:4; and Revelation verses where the LSG follows a different Greek text from the KJV) are Watchman Media's own French translation of the King James Version.",
    "minAppVersion": "1.0.0",
    "name": "French",
    "nativeName": "Français",
-   "path": "fr/1.0.12/pack.json"
+   "path": "fr/1.0.13/pack.json"
   },
   {
    "app": "daniel-unsealed",
@@ -131,30 +131,30 @@
   {
    "app": "daniel-unsealed",
    "lang": "pt",
-   "version": "1.0.11",
-   "sha256": "fc3b6697e0f627cc7406ecd7f91de8d66256b17f6597e49f0b7df7272e7df464",
-   "size": 173534,
+   "version": "1.0.12",
+   "sha256": "477022c4f71ea4b27db87f3dd7ca32c7980be18481cd625eed79a64885805561",
+   "size": 173542,
    "bibleId": "almeida1911",
    "license": "GPL",
    "attribution": "Almeida 1911 (João Ferreira de Almeida; 1911 reprint of the 1900 Lisbon edition). CrossWire SWORD module PorAlmeida1911 v0.2.1, distributed under the GNU GPL. https://www.crosswire.org/sword/modules/ModInfo.jsp?modName=PorAlmeida1911. Daniel 3:25, 8:14, 9:26, 12:4, Psalm 90:10 and Revelation 1:11, 22:14 are Watchman Media's own Portuguese translation of the King James Version (src \"kjv-pt\" in data/pt-almeida1911.json).",
    "minAppVersion": "1.0.0",
    "name": "Portuguese",
    "nativeName": "Português",
-   "path": "pt/1.0.11/pack.json"
+   "path": "pt/1.0.12/pack.json"
   },
   {
    "app": "daniel-unsealed",
    "lang": "ru",
-   "version": "1.0.3",
-   "sha256": "9efd0a54be79ab86ce146178ddff070f8e45aa66145d553cc0a176da0b07db31",
-   "size": 265744,
+   "version": "1.0.4",
+   "sha256": "6069e8201bc815a0628b9daf963cfe6e5eda817214d84b0176b99e164a6d348b",
+   "size": 265812,
    "bibleId": "synodal",
    "license": "public-domain",
    "attribution": "Russian Synodal Translation (Синодальный перевод; NT 1862, full Bible 1876), public domain. Text: eBible.org russyn (https://ebible.org/find/details.php?id=russyn), modern orthography; quotation marks removed; arranged in KJV verse numbering (Psalm 69:28 = Synodal 68:29, Psalm 90:10 = Synodal 89:10; Daniel 3:31-4:34 = KJV 4:1-37; Hosea 6:1, Revelation 1:10-11, 13:3-4, 18:2-3, 20:7-9 re-divided at KJV verse boundaries). Verses marked src \"kjv-ru\" in data/ru-synodal.json (Genesis 2:9, 6:5; Exodus 32:32; Psalm 90:10; Ezekiel 38:8; Daniel 2:44, 3:25, 3:30, 7:25, 9:25-27, 11:32, 12:4; Revelation 1:10, 1:11, 6:1, 16:5, 18:2) are Watchman Media's own Russian translation of the King James Version.",
    "minAppVersion": "1.0.0",
    "name": "Russian",
    "nativeName": "Русский",
-   "path": "ru/1.0.3/pack.json"
+   "path": "ru/1.0.4/pack.json"
   },
   {
    "app": "daniel-unsealed",
