@@ -1,6 +1,6 @@
 {
  "app": "daniel-unsealed",
- "generated": "2026-10-11T15:53:32.710Z",
+ "generated": "2026-10-11T15:54:58.668Z",
  "packs": [
   {
    "app": "daniel-unsealed",
@@ -75,16 +75,16 @@
   {
    "app": "daniel-unsealed",
    "lang": "hi",
-   "version": "1.0.14",
-   "sha256": "95e02c05a2d168267a121852ea61f79223460d090711850e2936775fc6496399",
-   "size": 396860,
+   "version": "1.0.15",
+   "sha256": "ab0fcd09c1ecc2a7a40e8ea9f3bdb3b57dafd9e45242199aae8631266106d333",
+   "size": 396998,
    "bibleId": "irv",
    "license": "CC BY-SA 4.0",
-   "attribution": "Indian Revised Version (IRV) Hindi 2019 (इंडियन रिवाइज्ड वर्जन हिंदी - 2019), © 2017, 2018, 2019 Bridge Connectivity Solutions Pvt. Ltd., licensed CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/). Text: eBible.org hin2017 (https://ebible.org/find/details.php?id=hin2017). Changes: footnotes and cross-references removed; arranged in KJV verse numbering (Rev 1:17-18 clause moved, Rev 12:18 joined to 13:1, Rev 12:6 inline cross-reference removed); Psalm 90:10, Amos 3:7, Daniel 9:25-27, Daniel 12:1, Daniel 12:4, Matthew 24:33, Matthew 24:36, Revelation 10:6,, Revelation 1:8, 1:9, 1:11, 5:10, 5:14, 6:1, 6:3, 6:5, 6:7, 8:13, 11:8, 11:17, 12:17, 14:5, 15:3, 16:5, 16:17, 19:1, 20:9, 20:12, 21:24, 22:14, 22:19, 22:21 (where the IRV follows a non-KJV Greek text), John 14:2 replaced by Watchman Media's own Hindi translation of the King James Version (src \"kjv-hi\"). Not endorsed by the licensor.",
+   "attribution": "Indian Revised Version (IRV) Hindi 2019 (इंडियन रिवाइज्ड वर्जन हिंदी - 2019), © 2017, 2018, 2019 Bridge Connectivity Solutions Pvt. Ltd., licensed CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/). Text: eBible.org hin2017 (https://ebible.org/find/details.php?id=hin2017). Changes: footnotes and cross-references removed; arranged in KJV verse numbering (Rev 1:17-18 clause moved, Rev 12:18 joined to 13:1, Rev 12:6 inline cross-reference removed); Psalm 90:10, Amos 3:7, Daniel 7:25, Daniel 9:25-27, Daniel 12:1, Daniel 12:4, Daniel 12:7, Matthew 24:33, Matthew 24:36, Revelation 10:6,, Revelation 1:8, 1:9, 1:11, 5:10, 5:14, 6:1, 6:3, 6:5, 6:7, 8:13, 11:8, 11:17, 12:17, 14:5, 15:3, 16:5, 16:17, 19:1, 20:9, 20:12, 21:24, 22:14, 22:19, 22:21 (where the IRV follows a non-KJV Greek text), John 14:2 replaced by Watchman Media's own Hindi translation of the King James Version (src \"kjv-hi\"). Not endorsed by the licensor.",
    "minAppVersion": "1.0.0",
    "name": "Hindi",
    "nativeName": "हिन्दी",
-   "path": "hi/1.0.14/pack.json"
+   "path": "hi/1.0.15/pack.json"
   },
   {
    "app": "daniel-unsealed",

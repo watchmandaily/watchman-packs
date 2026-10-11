@@ -1,6 +1,6 @@
 {
  "app": "prophecy-pulse",
- "generated": "2026-10-11T15:53:31.521Z",
+ "generated": "2026-10-11T15:54:57.593Z",
  "packs": [
   {
    "app": "prophecy-pulse",
@@ -187,16 +187,16 @@
   {
    "app": "prophecy-pulse",
    "lang": "sw",
-   "version": "1.0.3",
-   "sha256": "cf752fe8657e7ba2d721e7f6a4b561ecba5d9ec2de7fc9d4af02841db38571cc",
-   "size": 37588,
+   "version": "1.0.4",
+   "sha256": "66ab2dcb3a9a8e8bda54bc12a4066000c636dc3641cf17d874e2985d30378447",
+   "size": 37518,
    "bibleId": "swhulb",
    "license": "CC BY-SA 4.0",
    "attribution": "Swahili Unlocked Literal Bible (Biblia Takatifu, ULB), © 2019 Door43 World Missions Community, licensed CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/). Text: eBible.org swhulb (https://ebible.org/find/details.php?id=swhulb). Changes: footnotes removed; arranged in KJV verse numbering; verses marked src \"kjv-sw\" (2 Chronicles 15:6, Amos 3:7, Amos 9:15, Daniel 2:28, Daniel 2:44, Daniel 4:17, Daniel 9:27, Daniel 11:32, Daniel 12:11, Deuteronomy 13:1, Deuteronomy 30:4, Exodus 16:33, Ezekiel 38:8, Isaiah 11:1, Isaiah 11:10, Isaiah 13:10, Isaiah 19:2, Isaiah 34:4, Isaiah 40:10, Isaiah 60:14, Isaiah 62:11, Isaiah 66:8, Jeremiah 16:15, Numbers 24:17, Psalm 2:8, Psalm 90:10, Zechariah 12:10, 1 Thessalonians 4:16, Matthew 24:33, Matthew 24:36, 2 Thessalonians 2:3, 2 Peter 3:8) replaced by Watchman Media's own Swahili translation of the King James Version. This work has been changed from the original, and the original authors have not endorsed this work.",
    "minAppVersion": "1.0.0",
    "name": "Swahili",
    "nativeName": "Kiswahili",
-   "path": "sw/1.0.3/pack.json"
+   "path": "sw/1.0.4/pack.json"
   },
   {
    "app": "prophecy-pulse",
