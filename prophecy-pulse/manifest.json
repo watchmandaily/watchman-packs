@@ -1,6 +1,6 @@
 {
  "app": "prophecy-pulse",
- "generated": "2026-10-11T16:29:00.684Z",
+ "generated": "2026-10-11T18:05:53.347Z",
  "packs": [
   {
    "app": "prophecy-pulse",
@@ -89,16 +89,16 @@
   {
    "app": "prophecy-pulse",
    "lang": "he",
-   "version": "1.0.8",
-   "sha256": "20a63faabf955c766e4f0f510b7b8e7b09fb73090825445a528efa769c9f7c89",
-   "size": 39636,
+   "version": "1.0.9",
+   "sha256": "4c9d2a0304a6d9084c4d96d413ec9bbe0a85ba293fc5e9a78fdccef34cd81744",
+   "size": 39599,
    "bibleId": "delitzsch",
    "license": "public-domain",
    "attribution": "Old Testament: Westminster Leningrad Codex, public domain (the app's bundled original text via Open Scriptures Hebrew Bible; shown without vowel points or accents). New Testament: Franz Delitzsch Hebrew New Testament, public domain. Text: eBible.org heb (https://ebible.org/find/details.php?id=heb). Matthew 24:33, Titus 2:13 and 2 Peter 3:8 are Watchman Media's own Hebrew renderings of the King James Version (\"it is near, even at the doors\"; \"the glorious appearing of the great God\"; src \"kjv-he\" in data/he-delitzsch.json).",
    "minAppVersion": "1.0.0",
    "name": "Hebrew",
    "nativeName": "עברית",
-   "path": "he/1.0.8/pack.json"
+   "path": "he/1.0.9/pack.json"
   },
   {
    "app": "prophecy-pulse",
