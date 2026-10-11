@@ -1,6 +1,6 @@
 {
  "app": "daniel-unsealed",
- "generated": "2026-10-10T23:50:06.063Z",
+ "generated": "2026-10-11T00:37:35.911Z",
  "packs": [
   {
    "app": "daniel-unsealed",
@@ -103,16 +103,16 @@
   {
    "app": "daniel-unsealed",
    "lang": "zh",
-   "version": "1.0.5",
-   "sha256": "cae4020abb283c48dba4ec27bf3f23347b5aa92e2f1b84e6bc3601ecedd958bc",
-   "size": 146733,
+   "version": "1.0.6",
+   "sha256": "0ad93b68902cd11896eade5540e402a12c1de84ecf9250ce1408659cd87a628a",
+   "size": 146736,
    "bibleId": "cuv1919",
    "license": "public-domain",
    "attribution": "Chinese Union Version, Mandarin (官話和合譯本), 1919 first edition, public domain. Text: Chinese Wikisource (https://zh.wikisource.org/wiki/聖經_(和合本)), converted to simplified characters (OpenCC t2s + hand fixes); cross-checked with bible.fhl.net cumv",
    "minAppVersion": "1.0.0",
    "name": "Chinese",
    "nativeName": "中文",
-   "path": "zh/1.0.5/pack.json"
+   "path": "zh/1.0.6/pack.json"
   }
  ]
 }

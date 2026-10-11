@@ -1,6 +1,6 @@
 {
  "app": "prophecy-pulse",
- "generated": "2026-10-10T23:50:04.939Z",
+ "generated": "2026-10-11T00:36:56.076Z",
  "packs": [
   {
    "app": "prophecy-pulse",
@@ -15,6 +15,20 @@
    "name": "Arabic",
    "nativeName": "العربية",
    "path": "ar/1.0.3/pack.json"
+  },
+  {
+   "app": "prophecy-pulse",
+   "lang": "bn",
+   "version": "1.0.0",
+   "sha256": "9b6e83399a2b06cc07cf511b1e5765fe6d9bf5a0c74f9b0b145a5b8548de1a8d",
+   "size": 51534,
+   "bibleId": "benirv",
+   "license": "CC BY-SA 4.0",
+   "attribution": "Indian Revised Version (IRV) Bengali 2019, copyright © 2018, 2019 Bridge Connectivity Solutions Pvt. Ltd. Licensed under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/). Text: eBible.org benirv (https://ebible.org/find/details.php?id=benirv). Changes: footnotes and cross-references removed; arranged in KJV verse numbering; Matthew 24:33-34 replaced by Watchman Media's own Bengali translation of the KJV (src \"kjv-bn\"). Not endorsed by the licensor.",
+   "minAppVersion": "1.0.0",
+   "name": "Bengali",
+   "nativeName": "বাংলা",
+   "path": "bn/1.0.0/pack.json"
   },
   {
    "app": "prophecy-pulse",
@@ -74,6 +88,48 @@
   },
   {
    "app": "prophecy-pulse",
+   "lang": "ja",
+   "version": "1.0.3",
+   "sha256": "2ee12ce64e33c5be9de76bea3740d4f72bff8a7e4d32bfb1f59b150dfe8a2a0b",
+   "size": 30281,
+   "bibleId": "meiji",
+   "license": "public-domain",
+   "attribution": "Meiji Bible (明治元訳; OT 1887, NT 1880), public domain (PD-old). Text: Japanese Wikisource, 明治元訳旧約聖書 (1953 Japan Bible Society printing) and 明治元訳新約聖書 (大正4年, 1915 printing); ruby readings and page numbers removed. Numbers 24:17 (not on Wikisource), Matthew 24:33 and Matthew 24:34 are Watchman Media's own Japanese translation of the King James Version. Each verse in data/ja-meiji.json is marked src \"meiji\" or \"kjv-ja\".",
+   "minAppVersion": "1.0.0",
+   "name": "Japanese",
+   "nativeName": "日本語",
+   "path": "ja/1.0.3/pack.json"
+  },
+  {
+   "app": "prophecy-pulse",
+   "lang": "ko",
+   "version": "1.0.1",
+   "sha256": "16dd54a52f7c5975cc783edc7e6a9cc84653b3fb99267c230adf729851c21798",
+   "size": 29989,
+   "bibleId": "kor1910",
+   "license": "public-domain",
+   "attribution": "Korean Bible 1910 (성경전서, 1910 translation; Reynolds, 이승두, 김정삼), public domain. Text: eBible.org kor (https://ebible.org/find/details.php?id=kor). Isaiah 27:13 and Zechariah 12:3 repaired where the eBible file is corrupted; quotation marks removed. Matthew 24:33 is Watchman Media's own Korean translation of the King James Version (src \"kjv-ko\" in data/ko-kor1910.json).",
+   "minAppVersion": "1.0.0",
+   "name": "Korean",
+   "nativeName": "한국어",
+   "path": "ko/1.0.1/pack.json"
+  },
+  {
+   "app": "prophecy-pulse",
+   "lang": "ne",
+   "version": "1.0.0",
+   "sha256": "1f42eaf2cab2b23089659addd707a405599f4db435edf8297505ff803af7d774",
+   "size": 53232,
+   "bibleId": "npiulb",
+   "license": "CC BY-SA 4.0",
+   "attribution": "Nepali Unlocked Literal Bible (पवित्र बाइबल), copyright © 2019 Door43 World Missions Community. Licensed under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/). Text: eBible.org npiulb (https://ebible.org/find/details.php?id=npiulb). Changes: footnotes and cross-references removed; arranged in KJV verse numbering; Exodus 3:15, Deuteronomy 30:4, Matthew 24:33 and Titus 2:13 replaced by Watchman Media's own Nepali translation of the KJV (src \"kjv-ne\"). Not endorsed by the licensor.",
+   "minAppVersion": "1.0.0",
+   "name": "Nepali",
+   "nativeName": "नेपाली",
+   "path": "ne/1.0.0/pack.json"
+  },
+  {
+   "app": "prophecy-pulse",
    "lang": "pt",
    "version": "1.0.1",
    "sha256": "3088414317a95b222512ec0d95f89e093fc0a1464781465545a617e53aa55ebf",
@@ -85,6 +141,20 @@
    "name": "Portuguese",
    "nativeName": "Português",
    "path": "pt/1.0.1/pack.json"
+  },
+  {
+   "app": "prophecy-pulse",
+   "lang": "ta",
+   "version": "1.0.0",
+   "sha256": "b289bad1d436320e60539fd46883517b3a3c947eec0bb438f819276515172b78",
+   "size": 62358,
+   "bibleId": "tam2017",
+   "license": "CC BY-SA 4.0",
+   "attribution": "Indian Revised Version (IRV) Tamil 2019, copyright © 2017, 2019 Bridge Connectivity Solutions Pvt. Ltd. Licensed under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/). Text: eBible.org tam2017 (https://ebible.org/find/details.php?id=tam2017). Changes: footnotes and cross-references removed; arranged in KJV verse numbering; Matthew 24:33 replaced by Watchman Media's own Tamil translation of the KJV (src \"kjv-ta\"). Not endorsed by the licensor.",
+   "minAppVersion": "1.0.0",
+   "name": "Tamil",
+   "nativeName": "தமிழ்",
+   "path": "ta/1.0.0/pack.json"
   },
   {
    "app": "prophecy-pulse",
@@ -102,17 +172,31 @@
   },
   {
    "app": "prophecy-pulse",
+   "lang": "ur",
+   "version": "1.0.0",
+   "sha256": "4abce939a6239287d7759b5fc757ae98e5629a81956d21b69d6cafb1b07f1178",
+   "size": 39276,
+   "bibleId": "urdoucv",
+   "license": "CC BY-SA 4.0",
+   "attribution": "Open Urdu Contemporary Version (Biblica® Open Urdu Contemporary Version), copyright © 1999, 2005, 2022, 2024 Biblica, Inc. Licensed under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/). Text: eBible.org urdoucv (https://ebible.org/find/details.php?id=urdoucv). Changes: footnotes, cross-references and headings removed; arranged in KJV verse numbering; Daniel 9:27 replaced by Watchman Media's own Urdu translation of the KJV (src \"kjv-ur\"). Not endorsed by the licensor.",
+   "minAppVersion": "1.0.0",
+   "name": "Urdu",
+   "nativeName": "اردو",
+   "path": "ur/1.0.0/pack.json"
+  },
+  {
+   "app": "prophecy-pulse",
    "lang": "zh",
-   "version": "1.0.3",
-   "sha256": "ff3ee8b116ab91b854607064dcc45a9caca32fedaa1823f53506a06de5031415",
-   "size": 24578,
+   "version": "1.0.5",
+   "sha256": "551c57df9821fe087bce75fd649aa808c9049ed03473b82ab13032479be085d5",
+   "size": 24581,
    "bibleId": "cuv1919",
    "license": "public-domain",
    "attribution": "Chinese Union Version, Mandarin (官話和合譯本), 1919 first edition, public domain. Text: Chinese Wikisource (https://zh.wikisource.org/wiki/聖經_(和合本)), converted to simplified characters (OpenCC t2s + hand fixes); cross-checked with bible.fhl.net cumv",
    "minAppVersion": "1.0.0",
    "name": "Chinese",
    "nativeName": "中文",
-   "path": "zh/1.0.3/pack.json"
+   "path": "zh/1.0.5/pack.json"
   }
  ]
 }
