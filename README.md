@@ -1,6 +1,6 @@
 # Watchman Media language packs
 
-Static language packs (UI strings and scripture text) for Watchman Media apps (Prophecy Pulse, Daniel Unsealed), served by GitHub Pages at https://watchmandaily.github.io/watchman-packs/<app>/manifest.json.
+Static language packs (UI strings and scripture text) for Watchman Media apps (Prophecy Pulse, Daniel's Prophecies Unsealed), served by GitHub Pages at https://watchmandaily.github.io/watchman-packs/<app>/manifest.json.
 
 ## Scripture sources and licenses
 

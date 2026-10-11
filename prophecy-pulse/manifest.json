@@ -1,6 +1,6 @@
 {
  "app": "prophecy-pulse",
- "generated": "2026-10-11T00:54:20.317Z",
+ "generated": "2026-10-11T00:58:33.606Z",
  "packs": [
   {
    "app": "prophecy-pulse",
@@ -71,6 +71,20 @@
    "name": "French",
    "nativeName": "Français",
    "path": "fr/1.0.3/pack.json"
+  },
+  {
+   "app": "prophecy-pulse",
+   "lang": "he",
+   "version": "1.0.0",
+   "sha256": "480aecee37dbcfd0159a179a0b497dc2bc4c3c5a53521aad146f1f083b5b05c7",
+   "size": 31908,
+   "bibleId": "delitzsch",
+   "license": "public-domain",
+   "attribution": "Old Testament: Westminster Leningrad Codex, public domain (the app's bundled original text via Open Scriptures Hebrew Bible; shown without vowel points or accents). New Testament: Franz Delitzsch Hebrew New Testament, public domain. Text: eBible.org heb (https://ebible.org/find/details.php?id=heb). Matthew 24:33 is Watchman Media's own Hebrew rendering of the King James Version (\"it is near, even at the doors\"; src \"kjv-he\" in data/he-delitzsch.json).",
+   "minAppVersion": "1.0.0",
+   "name": "Hebrew",
+   "nativeName": "עברית",
+   "path": "he/1.0.0/pack.json"
   },
   {
    "app": "prophecy-pulse",
