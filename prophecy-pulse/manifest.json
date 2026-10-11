@@ -1,20 +1,20 @@
 {
  "app": "prophecy-pulse",
- "generated": "2026-10-11T00:36:56.076Z",
+ "generated": "2026-10-11T00:39:54.361Z",
  "packs": [
   {
    "app": "prophecy-pulse",
    "lang": "ar",
-   "version": "1.0.3",
-   "sha256": "f8b495fa02bebe24849d288f5d550e32a83c60ab75a2f4b2db85d838fd37ed83",
-   "size": 36748,
+   "version": "1.0.4",
+   "sha256": "1fa3ce2d19d6d4cb3b98009466e41922f76bd2c0694f30220bddedfe79d3b920",
+   "size": 36753,
    "bibleId": "svd",
    "license": "public-domain",
    "attribution": "Smith-Van Dyck Arabic Bible (1865), public domain. Text: eBible.org arb-vd (https://ebible.org/find/details.php?id=arb-vd), translated by the Syrian Mission, contributed by the American Bible Society",
    "minAppVersion": "1.0.0",
    "name": "Arabic",
    "nativeName": "العربية",
-   "path": "ar/1.0.3/pack.json"
+   "path": "ar/1.0.4/pack.json"
   },
   {
    "app": "prophecy-pulse",
@@ -172,6 +172,20 @@
   },
   {
    "app": "prophecy-pulse",
+   "lang": "tl",
+   "version": "1.0.0",
+   "sha256": "3939d5c312b01b4e4733db2f9de9694b010e96f4ae83c84eb1ea8f57b0a21af6",
+   "size": 29514,
+   "bibleId": "angbiblia1905",
+   "license": "public-domain",
+   "attribution": "Ang Biblia 1905 (Philippine Bible Society; Ang Dating Biblia), public domain. Text: CrossWire TagAngBiblia (https://www.crosswire.org/sword/modules/ModInfo.jsp?modName=TagAngBiblia). Matthew 24:33 is Watchman Media's own Tagalog translation of the King James Version (\"it is near\"; src \"kjv-tl\" in data/tl-angbiblia1905.json).",
+   "minAppVersion": "1.0.0",
+   "name": "Tagalog",
+   "nativeName": "Tagalog",
+   "path": "tl/1.0.0/pack.json"
+  },
+  {
+   "app": "prophecy-pulse",
    "lang": "ur",
    "version": "1.0.0",
    "sha256": "4abce939a6239287d7759b5fc757ae98e5629a81956d21b69d6cafb1b07f1178",
@@ -183,6 +197,20 @@
    "name": "Urdu",
    "nativeName": "اردو",
    "path": "ur/1.0.0/pack.json"
+  },
+  {
+   "app": "prophecy-pulse",
+   "lang": "vi",
+   "version": "1.0.0",
+   "sha256": "0b2dcbeb488ec9de7a74d928569a4dae084f2714a662316365a734a70177be07",
+   "size": 31877,
+   "bibleId": "vie1934",
+   "license": "public-domain",
+   "attribution": "Vietnamese Bible 1923/1925 (Kinh Thánh, Cadman translation; NT 1923, OT 1925), public domain. Text: eBible.org vie1934 (https://ebible.org/find/details.php?id=vie1934); encoding glitches repaired. Matthew 24:33 is Watchman Media's own Vietnamese translation of the King James Version (\"it is near\"; src \"kjv-vi\" in data/vi-vie1934.json).",
+   "minAppVersion": "1.0.0",
+   "name": "Vietnamese",
+   "nativeName": "Tiếng Việt",
+   "path": "vi/1.0.0/pack.json"
   },
   {
    "app": "prophecy-pulse",
