@@ -1,6 +1,6 @@
 {
  "app": "prophecy-pulse",
- "generated": "2026-10-11T07:56:38.464Z",
+ "generated": "2026-10-11T07:59:16.062Z",
  "packs": [
   {
    "app": "prophecy-pulse",
@@ -61,16 +61,16 @@
   {
    "app": "prophecy-pulse",
    "lang": "fa",
-   "version": "1.0.0",
-   "sha256": "3a9d7adca1ca9bc8faf6c7072a282c6c54abf73e197ffbc0d7ffd947132e89d4",
-   "size": 48759,
+   "version": "1.0.1",
+   "sha256": "b49b0e7a81a4497832f01ddb55a5fe09dd98cd8c2d0d79e078c0060897daf8fb",
+   "size": 48864,
    "bibleId": "pesopv",
    "license": "public-domain",
    "attribution": "Old Persian Version (ترجمه قدیم, 1895), public domain. Text: eBible.org pesOPV (https://ebible.org/find/details.php?id=pesOPV), printed spelling and spacing kept; arranged in KJV verse numbering (OPV Daniel 6:N+1 = KJV Daniel 6:N). Verses marked src \"kjv-fa\" are Watchman Media's own KJV-meaning overrides: Daniel 9:27, Isaiah 40:10, Isaiah 62:11, Joel 2:28, Numbers 24:17, Psalm 90:10, Zechariah 12:10, Matthew 24:34, 2 Peter 3:8.",
    "minAppVersion": "1.0.0",
    "name": "Persian",
    "nativeName": "فارسی",
-   "path": "fa/1.0.0/pack.json"
+   "path": "fa/1.0.1/pack.json"
   },
   {
    "app": "prophecy-pulse",
