@@ -1,20 +1,20 @@
 {
  "app": "prophecy-pulse",
- "generated": "2026-10-11T00:58:33.606Z",
+ "generated": "2026-10-11T01:01:37.436Z",
  "packs": [
   {
    "app": "prophecy-pulse",
    "lang": "ar",
-   "version": "1.0.5",
-   "sha256": "081c8ff53f36edcda055dcb66e806269f0ecd738c14bb53391a77d7608602463",
-   "size": 43494,
+   "version": "1.0.6",
+   "sha256": "8f3cca98d3476669d696acfd74271a34137a6a95dda7727ae34ae9e944492d57",
+   "size": 43523,
    "bibleId": "svd",
    "license": "public-domain",
    "attribution": "Smith-Van Dyck Arabic Bible (1865), public domain. Text: eBible.org arb-vd (https://ebible.org/find/details.php?id=arb-vd), translated by the Syrian Mission, contributed by the American Bible Society",
    "minAppVersion": "1.0.0",
-   "name": "Arabic",
-   "nativeName": "العربية",
-   "path": "ar/1.0.5/pack.json"
+   "name": "Arabic (Van Dyck)",
+   "nativeName": "العربية (فان دايك)",
+   "path": "ar/1.0.6/pack.json"
   },
   {
    "app": "prophecy-pulse",
