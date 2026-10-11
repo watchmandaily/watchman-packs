@@ -1,6 +1,6 @@
 {
  "app": "daniel-unsealed",
- "generated": "2026-10-11T08:07:23.958Z",
+ "generated": "2026-10-11T08:23:35.050Z",
  "packs": [
   {
    "app": "daniel-unsealed",
@@ -19,16 +19,16 @@
   {
    "app": "daniel-unsealed",
    "lang": "bn",
-   "version": "1.0.1",
-   "sha256": "e289e872a5259bac0b381004fed482d9eef73ff4bf98e36e028c5906e645d65c",
-   "size": 424558,
+   "version": "1.0.2",
+   "sha256": "6b9fa1cb40569f5f600529d4cf6e135c1945b14e9079f16037f92556c4768061",
+   "size": 424599,
    "bibleId": "benirv",
    "license": "CC BY-SA 4.0",
-   "attribution": "Indian Revised Version (IRV) Bengali 2019 (ইন্ডিয়ান রিভাইজড ভার্সন (IRV) - বেঙ্গলী), © 2018, 2019 Bridge Connectivity Solutions Pvt. Ltd. Licensed CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/). Text: eBible.org benirv (https://ebible.org/find/details.php?id=benirv). Changes: footnotes, cross-references, section headings and bracketed glosses (Rev 15:1, 16:21, 21:12) removed; arranged in KJV verse numbering (Rev 1:17-18 clause moved, Rev 12:18 joined to 13:1); 2 Thessalonians 2:3, Amos 3:7, Daniel 11:32, Daniel 12:7, Daniel 3:25, Daniel 7:25, Daniel 9:25, Daniel 9:26, Daniel 9:27, Ezekiel 38:8, Matthew 24:33, Matthew 24:34, Matthew 24:36, Psalm 90:10, Revelation 10:6, Revelation 11:17, Revelation 11:8, Revelation 12:14, Revelation 12:17, Revelation 14:5, Revelation 15:3, Revelation 16:17, Revelation 16:5, Revelation 19:1, Revelation 1:11, Revelation 1:8, Revelation 1:9, Revelation 20:12, Revelation 20:9, Revelation 21:24, Revelation 22:14, Revelation 22:19, Revelation 22:21, Revelation 5:10, Revelation 5:14, Revelation 6:1, Revelation 6:3, Revelation 6:5, Revelation 6:7, Revelation 8:13 replaced by Watchman Media's own Bengali translation of the King James Version (src \"kjv-bn\"). Not endorsed by the licensor.",
+   "attribution": "Indian Revised Version (IRV) Bengali 2019 (ইন্ডিয়ান রিভাইজড ভার্সন (IRV) - বেঙ্গলী), © 2018, 2019 Bridge Connectivity Solutions Pvt. Ltd. Licensed CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/). Text: eBible.org benirv (https://ebible.org/find/details.php?id=benirv). Changes: footnotes, cross-references, section headings and bracketed glosses (Rev 15:1, 16:21, 21:12) removed; arranged in KJV verse numbering (Rev 1:17-18 clause moved, Rev 12:18 joined to 13:1); 2 Thessalonians 2:3, Amos 3:7, Daniel 11:32, Daniel 12:7, Daniel 3:25, Daniel 7:25, Daniel 9:25, Daniel 9:26, Daniel 9:27, Ezekiel 38:8, Matthew 24:33, Matthew 24:34, Matthew 24:36, Psalm 90:10, Revelation 10:6, Revelation 11:17, Revelation 11:8, Revelation 12:14, Revelation 12:17, Revelation 14:5, Revelation 15:3, Revelation 16:17, Revelation 16:5, Revelation 19:1, Revelation 1:11, Revelation 1:8, Revelation 1:9, Revelation 20:12, Revelation 20:9, Revelation 21:24, Revelation 22:14, Revelation 22:19, Revelation 22:21, Revelation 5:10, Revelation 5:14, Revelation 6:1, Revelation 6:3, Revelation 6:5, Revelation 6:7, Revelation 8:13, John 14:2 replaced by Watchman Media's own Bengali translation of the King James Version (src \"kjv-bn\"). Not endorsed by the licensor.",
    "minAppVersion": "1.0.0",
    "name": "Bengali",
    "nativeName": "বাংলা",
-   "path": "bn/1.0.1/pack.json"
+   "path": "bn/1.0.2/pack.json"
   },
   {
    "app": "daniel-unsealed",
@@ -75,16 +75,16 @@
   {
    "app": "daniel-unsealed",
    "lang": "hi",
-   "version": "1.0.10",
-   "sha256": "52419657db5ff0030e818245d9a7efa097a1443bbb12637417d36258e1761723",
-   "size": 396208,
+   "version": "1.0.11",
+   "sha256": "a8bc87a60ab5ee8e4d2da3772fb5436cbe07e37ac6889ca65280d0251cbab650",
+   "size": 396224,
    "bibleId": "irv",
    "license": "CC BY-SA 4.0",
-   "attribution": "Indian Revised Version (IRV) Hindi 2019 (इंडियन रिवाइज्ड वर्जन हिंदी - 2019), © 2017, 2018, 2019 Bridge Connectivity Solutions Pvt. Ltd., licensed CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/). Text: eBible.org hin2017 (https://ebible.org/find/details.php?id=hin2017). Changes: footnotes and cross-references removed; arranged in KJV verse numbering (Rev 1:17-18 clause moved, Rev 12:18 joined to 13:1, Rev 12:6 inline cross-reference removed); Psalm 90:10, Amos 3:7, Daniel 9:25-27, Daniel 12:1, Daniel 12:4, Matthew 24:33, Matthew 24:36, Revelation 10:6, and Revelation 1:8, 1:9, 1:11, 5:10, 5:14, 6:1, 6:3, 6:5, 6:7, 8:13, 11:8, 11:17, 12:17, 14:5, 15:3, 16:5, 16:17, 19:1, 20:9, 20:12, 21:24, 22:14, 22:19, 22:21 (where the IRV follows a non-KJV Greek text) replaced by Watchman Media's own Hindi translation of the King James Version (src \"kjv-hi\"). Not endorsed by the licensor.",
+   "attribution": "Indian Revised Version (IRV) Hindi 2019 (इंडियन रिवाइज्ड वर्जन हिंदी - 2019), © 2017, 2018, 2019 Bridge Connectivity Solutions Pvt. Ltd., licensed CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/). Text: eBible.org hin2017 (https://ebible.org/find/details.php?id=hin2017). Changes: footnotes and cross-references removed; arranged in KJV verse numbering (Rev 1:17-18 clause moved, Rev 12:18 joined to 13:1, Rev 12:6 inline cross-reference removed); Psalm 90:10, Amos 3:7, Daniel 9:25-27, Daniel 12:1, Daniel 12:4, Matthew 24:33, Matthew 24:36, Revelation 10:6,, Revelation 1:8, 1:9, 1:11, 5:10, 5:14, 6:1, 6:3, 6:5, 6:7, 8:13, 11:8, 11:17, 12:17, 14:5, 15:3, 16:5, 16:17, 19:1, 20:9, 20:12, 21:24, 22:14, 22:19, 22:21 (where the IRV follows a non-KJV Greek text), John 14:2 replaced by Watchman Media's own Hindi translation of the King James Version (src \"kjv-hi\"). Not endorsed by the licensor.",
    "minAppVersion": "1.0.0",
    "name": "Hindi",
    "nativeName": "हिन्दी",
-   "path": "hi/1.0.10/pack.json"
+   "path": "hi/1.0.11/pack.json"
   },
   {
    "app": "daniel-unsealed",
@@ -116,6 +116,20 @@
   },
   {
    "app": "daniel-unsealed",
+   "lang": "ne",
+   "version": "1.0.0",
+   "sha256": "7eb626a697e6ddffbc23566ebc1e3c2e9dd6ffcdb6c26583fbba30c59447f7aa",
+   "size": 429677,
+   "bibleId": "npiulb",
+   "license": "CC BY-SA 4.0",
+   "attribution": "Nepali Unlocked Literal Bible (पवित्र बाइबल), © 2019 Door43 World Missions Community. Licensed CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/). Text: eBible.org npiulb (https://ebible.org/find/details.php?id=npiulb). Changes: footnotes, translator notes and section headings removed; Western digits; arranged in KJV verse numbering; 1 Thessalonians 4:17, 2 Thessalonians 2:3, 2 Thessalonians 2:4, Amos 3:7, Daniel 11:32, Daniel 12:7, Daniel 2:44, Daniel 3:25, Daniel 7:25, Daniel 9:25, Daniel 9:26, Deuteronomy 30:4, Exodus 3:15, Ezekiel 38:8, John 14:2, Matthew 24:15, Matthew 24:33, Matthew 24:36, Revelation 10:6, Revelation 11:17, Revelation 11:8, Revelation 12:17, Revelation 13:1, Revelation 14:5, Revelation 15:3, Revelation 16:17, Revelation 16:5, Revelation 19:1, Revelation 1:11, Revelation 1:18, Revelation 1:8, Revelation 1:9, Revelation 20:12, Revelation 20:9, Revelation 21:24, Revelation 22:14, Revelation 22:19, Revelation 22:21, Revelation 2:27, Revelation 2:28, Revelation 5:10, Revelation 5:14, Revelation 6:1, Revelation 6:3, Revelation 6:5, Revelation 6:7, Revelation 8:13, Revelation 8:7 replaced by Watchman Media's own Nepali translation of the King James Version (src \"kjv-ne\"). Not endorsed by the licensor.",
+   "minAppVersion": "1.0.0",
+   "name": "Nepali",
+   "nativeName": "नेपाली",
+   "path": "ne/1.0.0/pack.json"
+  },
+  {
+   "app": "daniel-unsealed",
    "lang": "pt",
    "version": "1.0.8",
    "sha256": "71a6aa34c3e5863a234e575635c13fa130b0a04b73ef8a18dbc5fb090d811e36",
@@ -144,31 +158,73 @@
   },
   {
    "app": "daniel-unsealed",
+   "lang": "ta",
+   "version": "1.0.1",
+   "sha256": "4402e20b71f40cae9d09c392c8d4339e26befb33a6e1c456ac86fff81df795f9",
+   "size": 510974,
+   "bibleId": "tam2017",
+   "license": "CC BY-SA 4.0",
+   "attribution": "Indian Revised Version (IRV) Tamil 2019 (இண்டியன் ரிவைஸ்டு வெர்ஸன் (IRV) - தமிழ்), © 2017, 2019 Bridge Connectivity Solutions Pvt. Ltd. Licensed CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/). Text: eBible.org tam2017 (https://ebible.org/find/details.php?id=tam2017). Changes: footnotes, cross-references and section headings removed; arranged in KJV verse numbering (Rev 12:17-18 printed as one verse = KJV 12:17); Daniel 11:32, Daniel 2:44, Matthew 24:33, Revelation 10:6, Revelation 10:7, Revelation 16:5, Revelation 8:13 replaced by Watchman Media's own Tamil translation of the King James Version (src \"kjv-ta\"). Not endorsed by the licensor.",
+   "minAppVersion": "1.0.0",
+   "name": "Tamil",
+   "nativeName": "தமிழ்",
+   "path": "ta/1.0.1/pack.json"
+  },
+  {
+   "app": "daniel-unsealed",
    "lang": "th",
-   "version": "1.0.9",
-   "sha256": "4a3209790925aaa72ebbe7d2567650aef0b614a144a44a8d20469d8a0c0fdafd",
-   "size": 456175,
+   "version": "1.0.10",
+   "sha256": "ac651dc653d617c1819ba5bc06d16e01d7505340a771344a40665be10058197d",
+   "size": 456903,
    "bibleId": "thfb",
    "license": "public-domain",
    "attribution": "Thai Freedom Bible 2026 (eBible.org thafb, https://ebible.org/find/details.php?id=thafb), public domain, a draft translation; footnotes removed. Daniel, Ezekiel, Hosea, Joel, Amos and Zechariah (not yet in thafb), and the Revelation verses where thafb follows a different Greek text from the KJV, are Watchman Media's own Thai translation of the King James Version, independent of the Thai 1940/1971 texts. Each verse in data/th-fbkjv.json is marked src \"thafb\" or \"kjv-th\".",
    "minAppVersion": "1.0.0",
    "name": "Thai",
    "nativeName": "ไทย",
-   "path": "th/1.0.9/pack.json"
+   "path": "th/1.0.10/pack.json"
+  },
+  {
+   "app": "daniel-unsealed",
+   "lang": "tl",
+   "version": "1.0.0",
+   "sha256": "fe42940e01ab894169a70f252b2138d22b941716f6801f7f75afb34a64543444",
+   "size": 214736,
+   "bibleId": "angbiblia1905",
+   "license": "public-domain",
+   "attribution": "Ang Biblia 1905 (Philippine Bible Society; Ang Dating Biblia), public domain. Text: CrossWire TagAngBiblia (https://www.crosswire.org/sword/modules/ModInfo.jsp?modName=TagAngBiblia). Verses marked src \"kjv-tl\" are Watchman Media's own Tagalog translation of the King James Version (data/tl-angbiblia1905.json).",
+   "minAppVersion": "1.0.0",
+   "name": "Tagalog",
+   "nativeName": "Tagalog",
+   "path": "tl/1.0.0/pack.json"
   },
   {
    "app": "daniel-unsealed",
    "lang": "ur",
-   "version": "1.0.0",
-   "sha256": "b4ae5c012edf62c6bd54c0b671739d7adaf873fbc8740cb9b2cdcc8d60fc5fb5",
-   "size": 307760,
+   "version": "1.0.2",
+   "sha256": "05dbbecdb2b5bea0246618343ac2bdb26ce4bd7526a6d70ff96af8cdbf6ea5c7",
+   "size": 308022,
    "bibleId": "urdoucv",
    "license": "CC BY-SA 4.0",
-   "attribution": "Open Urdu Contemporary Version (Biblica® آزادانہ اردو ہم عصر ترجمہ), © 1999, 2005, 2022, 2024 Biblica, Inc. Licensed CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/). Text: eBible.org urdoucv (https://ebible.org/find/details.php?id=urdoucv). Changes: footnotes, cross-references and section headings removed; arranged in KJV verse numbering (Rev 2:27-28 divided as in the KJV); 1 Thessalonians 5:4, Amos 3:7, Daniel 11:32, Daniel 12:4, Daniel 12:7, Daniel 3:25, Daniel 7:25, Daniel 9:25, Daniel 9:26, Daniel 9:27, Ezekiel 38:8, Matthew 24:36, Psalm 90:10, Revelation 10:6, Revelation 11:17, Revelation 11:8, Revelation 12:14, Revelation 12:17, Revelation 14:5, Revelation 15:3, Revelation 16:17, Revelation 16:5, Revelation 19:1, Revelation 1:11, Revelation 1:8, Revelation 1:9, Revelation 20:12, Revelation 20:9, Revelation 21:24, Revelation 22:14, Revelation 22:19, Revelation 22:21, Revelation 5:10, Revelation 5:14, Revelation 6:1, Revelation 6:3, Revelation 6:5, Revelation 6:7, Revelation 8:13 replaced by Watchman Media's own Urdu translation of the King James Version (src \"kjv-ur\"). Not endorsed by the licensor.",
+   "attribution": "Open Urdu Contemporary Version (Biblica® آزادانہ اردو ہم عصر ترجمہ), © 1999, 2005, 2022, 2024 Biblica, Inc. Licensed CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/). Text: eBible.org urdoucv (https://ebible.org/find/details.php?id=urdoucv). Changes: footnotes, cross-references and section headings removed; arranged in KJV verse numbering (Rev 2:27-28 divided as in the KJV); 1 Thessalonians 5:4, Amos 3:7, Daniel 11:32, Daniel 12:4, Daniel 12:7, Daniel 3:25, Daniel 7:25, Daniel 9:25, Daniel 9:26, Daniel 9:27, Ezekiel 38:8, Matthew 24:36, Psalm 90:10, Revelation 10:6, Revelation 11:17, Revelation 11:8, Revelation 12:14, Revelation 12:17, Revelation 14:5, Revelation 15:3, Revelation 16:17, Revelation 16:5, Revelation 19:1, Revelation 1:11, Revelation 1:8, Revelation 1:9, Revelation 20:12, Revelation 20:9, Revelation 21:24, Revelation 22:14, Revelation 22:19, Revelation 22:21, Revelation 5:10, Revelation 5:14, Revelation 6:1, Revelation 6:3, Revelation 6:5, Revelation 6:7, Revelation 8:13, John 14:2, 1 Thessalonians 4:17, 2 Thessalonians 2:4, Hosea 6:2 replaced by Watchman Media's own Urdu translation of the King James Version (src \"kjv-ur\"). Not endorsed by the licensor.",
    "minAppVersion": "1.0.0",
    "name": "Urdu",
    "nativeName": "اردو",
-   "path": "ur/1.0.0/pack.json"
+   "path": "ur/1.0.2/pack.json"
+  },
+  {
+   "app": "daniel-unsealed",
+   "lang": "vi",
+   "version": "1.0.0",
+   "sha256": "8fb4571bcf6032ad81c64e687b577696e0afb96032a170856ef36338584fc3c1",
+   "size": 225959,
+   "bibleId": "vie1934",
+   "license": "public-domain",
+   "attribution": "Vietnamese Bible 1923/1925 (Kinh Thánh, Cadman translation; NT 1923, OT 1925), public domain. Text: eBible.org vie1934 (https://ebible.org/find/details.php?id=vie1934); encoding glitches repaired. Verses marked src \"kjv-vi\" are Watchman Media's own Vietnamese translation of the King James Version (data/vi-vie1934.json).",
+   "minAppVersion": "1.0.0",
+   "name": "Vietnamese",
+   "nativeName": "Tiếng Việt",
+   "path": "vi/1.0.0/pack.json"
   },
   {
    "app": "daniel-unsealed",
