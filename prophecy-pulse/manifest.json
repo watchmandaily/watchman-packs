@@ -1,6 +1,6 @@
 {
  "app": "prophecy-pulse",
- "generated": "2026-10-17T09:09:37.681Z",
+ "generated": "2026-10-17T09:15:44.307Z",
  "packs": [
   {
    "app": "prophecy-pulse",
@@ -145,30 +145,30 @@
   {
    "app": "prophecy-pulse",
    "lang": "ja",
-   "version": "1.0.14",
-   "sha256": "f7303baceea1bead9b04f06c685f258ea9655a77cdef16a087e229f2d62eea61",
-   "size": 46158,
+   "version": "1.0.15",
+   "sha256": "82af84ceb45641521c4a0561829ba8b806743c9b300078843754604ae65bf2d9",
+   "size": 46290,
    "bibleId": "meiji",
    "license": "public-domain",
    "attribution": "Meiji Bible (明治元訳; OT 1887, NT 1880), public domain (PD-old). Text: Japanese Wikisource, 明治元訳旧約聖書 (1953 Japan Bible Society printing) and 明治元訳新約聖書 (大正4年, 1915 printing); ruby readings and page numbers removed. Numbers 24:17 (not on Wikisource), Matthew 24:33 and Matthew 24:34 are Watchman Media's own Japanese translation of the King James Version. 2 Thessalonians 2:4 and John 14:2 are Meiji text from the Wikisource 1904 printing (明治元訳新約聖書 (明治37年)). Each verse in data/ja-meiji.json is marked src \"meiji\" or \"kjv-ja\".",
    "minAppVersion": "1.0.0",
    "name": "Japanese",
    "nativeName": "日本語",
-   "path": "ja/1.0.14/pack.json"
+   "path": "ja/1.0.15/pack.json"
   },
   {
    "app": "prophecy-pulse",
    "lang": "ko",
-   "version": "1.0.14",
-   "sha256": "2cdd4154ffd5f62645b3e1c9fb033d8691a4adc833fed4b118a854af0da54b4a",
-   "size": 46252,
+   "version": "1.0.15",
+   "sha256": "379db0b74cd93847cf18333f727719a7d8cb8dccf9da98d7ce92f9eb79c67935",
+   "size": 46384,
    "bibleId": "kor1910",
    "license": "public-domain",
    "attribution": "Korean Bible 1910 (성경전서, 1910 translation; Reynolds, 이승두, 김정삼), public domain. Text: eBible.org kor (https://ebible.org/find/details.php?id=kor). Isaiah 27:13 and Zechariah 12:3 repaired where the eBible file is corrupted; quotation marks removed. Daniel 9:27, Hosea 6:2, Matthew 24:33 and Matthew 24:36 are Watchman Media's own Korean translation of the King James Version (src \"kjv-ko\" in data/ko-kor1910.json).",
    "minAppVersion": "1.0.0",
    "name": "Korean",
    "nativeName": "한국어",
-   "path": "ko/1.0.14/pack.json"
+   "path": "ko/1.0.15/pack.json"
   },
   {
    "app": "prophecy-pulse",
