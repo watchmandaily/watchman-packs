@@ -1,6 +1,6 @@
 {
  "app": "prophecy-pulse",
- "generated": "2026-10-17T09:45:45.366Z",
+ "generated": "2026-10-17T10:32:38.027Z",
  "packs": [
   {
    "app": "prophecy-pulse",
@@ -271,30 +271,30 @@
   {
    "app": "prophecy-pulse",
    "lang": "tr",
-   "version": "1.0.4",
-   "sha256": "6770a09dfa84c792eae5d45e2a4b435bbf9e48a39630e73d0db22ed0ad0571ca",
-   "size": 42227,
+   "version": "1.0.5",
+   "sha256": "4fb10ec76c41ed8c96023ad25014f8824bfba333fce161b8895f3b31c3069168",
+   "size": 42397,
    "bibleId": "turobt-kjv",
    "license": "CC BY-SA 4.0",
    "attribution": "New Testament: Open Basic Turkish New Testament™ (Açık Lisans Temel Türkçe Tercüme İncil™), Copyright © 2023 by Biblica, Inc., The Translation Trust, OM UK and Global Nomads, licensed CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/). Text: eBible.org turobt (https://ebible.org/find/details.php?id=turobt). Changes: footnotes removed; arranged in KJV verse numbering; 2 Timothy 3:1, 2 Timothy 3:5, Matthew 24:15, Matthew 24:33, Matthew 24:36, Revelation 22:10, 2 Thessalonians 2:3, John 14:2, Luke 21:28 replaced by Watchman Media's own Turkish translation of the King James Version. This work has been changed from the original, and the licensors have not endorsed it. The original Work by its copyright holders is available for free at www.biblica.com and open.bible. Old Testament: Watchman Media's own Turkish translation of the King James Version, released under the same CC BY-SA 4.0 license.",
    "minAppVersion": "1.0.0",
    "name": "Turkish",
    "nativeName": "Türkçe",
-   "path": "tr/1.0.4/pack.json"
+   "path": "tr/1.0.5/pack.json"
   },
   {
    "app": "prophecy-pulse",
    "lang": "ur",
-   "version": "1.0.15",
-   "sha256": "dbb98605d0dde961aea8e0fde2b815f81b3486a4ae2b13063d14038cc67a63d1",
-   "size": 62839,
+   "version": "1.0.16",
+   "sha256": "1463fd489423ea07f4cd15ea629ce18fe6faa18972682c8e943174eb70adb69d",
+   "size": 62999,
    "bibleId": "urdoucv",
    "license": "CC BY-SA 4.0",
    "attribution": "Biblica® Open Urdu Contemporary Version™ (Biblica® آزادانہ اردو ہم عصر ترجمہ™), Copyright © 1999, 2005, 2022, 2024 by Biblica, Inc. Licensed CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/). Text: eBible.org urdoucv (https://ebible.org/find/details.php?id=urdoucv). Changes: footnotes, cross-references and section headings removed; arranged in KJV verse numbering; Amos 3:7, Daniel 9:27, Daniel 11:32, Ezekiel 38:8, Matthew 24:36, 1 Thessalonians 5:4, John 14:2, 1 Thessalonians 4:17, 2 Thessalonians 2:4, Hosea 6:2 replaced by Watchman Media's own Urdu translation of the King James Version. Not endorsed by the licensor. The original Work by its copyright holders is available for free at www.biblica.com and open.bible. “Biblica” is a trademark registered in the United States Patent and Trademark Office by Biblica, Inc. Used with permission.",
    "minAppVersion": "1.0.0",
    "name": "Urdu",
    "nativeName": "اردو",
-   "path": "ur/1.0.15/pack.json"
+   "path": "ur/1.0.16/pack.json"
   },
   {
    "app": "prophecy-pulse",
