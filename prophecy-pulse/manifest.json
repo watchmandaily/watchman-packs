@@ -1,6 +1,6 @@
 {
  "app": "prophecy-pulse",
- "generated": "2026-10-17T08:52:27.308Z",
+ "generated": "2026-10-17T09:06:50.448Z",
  "packs": [
   {
    "app": "prophecy-pulse",
@@ -33,44 +33,44 @@
   {
    "app": "prophecy-pulse",
    "lang": "bn",
-   "version": "1.0.12",
-   "sha256": "c486a42a3f8cbda529964b623c7268346b0dfd9866f0e5387732d78ae6dda104",
-   "size": 82657,
+   "version": "1.0.13",
+   "sha256": "a4925e7ce6347665eb81f1771f748a3ff3b687466ef2f63ff303db9c39f66879",
+   "size": 82762,
    "bibleId": "benirv",
    "license": "CC BY-SA 4.0",
    "attribution": "Indian Revised Version (IRV) Bengali 2019 (ইন্ডিয়ান রিভাইজড ভার্সন (IRV) - বেঙ্গলী), © 2018, 2019 Bridge Connectivity Solutions Pvt. Ltd. Licensed CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/). Text: eBible.org benirv (https://ebible.org/find/details.php?id=benirv). Changes: footnotes and cross-references removed; arranged in KJV verse numbering; Amos 3:7, Daniel 11:32, Ezekiel 38:8, Matthew 24:33-34, Matthew 24:36, 2 Thessalonians 2:3, John 14:2, Daniel 9:27 replaced by Watchman Media's own Bengali translation of the King James Version (src \"kjv-bn\"); Psalm 110:1 typo fix (collapsed a doubled Bengali vowel sign ুু → ু that appears in the eBible benirv source; still src \"benirv\"). Not endorsed by the licensor.",
    "minAppVersion": "1.0.0",
    "name": "Bengali",
    "nativeName": "বাংলা",
-   "path": "bn/1.0.12/pack.json"
+   "path": "bn/1.0.13/pack.json"
   },
   {
    "app": "prophecy-pulse",
    "lang": "de",
-   "version": "1.0.13",
-   "sha256": "965f7f1f3ac7538e991bdd1eea5a6668c3600fcdc12f39071e9b960a648994db",
-   "size": 40875,
+   "version": "1.0.14",
+   "sha256": "b9029a44f0b40a593416d89ca0769578dc06b9b46c8e7a688289583b7f7395b8",
+   "size": 40980,
    "bibleId": "luther1912",
    "license": "public-domain",
    "attribution": "Luther 1912, public domain. Text: eBible.org deu1912 (https://ebible.org/find/details.php?id=deu1912). Daniel 12:4 and Isaiah 66:8 are Watchman Media's own German translation of the King James Version (src \"kjv-de\" in data/de-luther1912.json).",
    "minAppVersion": "1.0.0",
    "name": "German",
    "nativeName": "Deutsch",
-   "path": "de/1.0.13/pack.json"
+   "path": "de/1.0.14/pack.json"
   },
   {
    "app": "prophecy-pulse",
    "lang": "es",
-   "version": "1.0.13",
-   "sha256": "503ea80adceb7aa11e428f28eb2fba6e51fb9749e7792a1b2ac5984a73e326fc",
-   "size": 39815,
+   "version": "1.0.14",
+   "sha256": "8e62e363f8a9d233ee60b36b0d0f4d8ba71ce21fd4cd684c0303efb6fe755318",
+   "size": 39920,
    "bibleId": "rv1909",
    "license": "public-domain",
    "attribution": "Reina-Valera 1909, public domain. Text: eBible.org spaRV1909 (https://ebible.org/find/details.php?id=spaRV1909). Luke 21:20 is Watchman Media's own Spanish translation of the King James Version (src \"kjv-es\" in data/es-rv1909.json).",
    "minAppVersion": "1.0.0",
    "name": "Spanish",
    "nativeName": "Español",
-   "path": "es/1.0.13/pack.json"
+   "path": "es/1.0.14/pack.json"
   },
   {
    "app": "prophecy-pulse",
@@ -89,16 +89,16 @@
   {
    "app": "prophecy-pulse",
    "lang": "fr",
-   "version": "1.0.13",
-   "sha256": "ea213b70e6e8063ed8f30fc391c4b2610996826ef59ffba9d0624ee693c2c9e6",
-   "size": 42129,
+   "version": "1.0.14",
+   "sha256": "d4065ff8a0967a3c5f5de7f210c6d32378c08793b8d992298f1ebce77c16d598",
+   "size": 42234,
    "bibleId": "lsg",
    "license": "public-domain",
    "attribution": "Louis Segond 1910, public domain. Text: eBible.org fraLSG (https://ebible.org/find/details.php?id=fraLSG). Matthew 24:33, Matthew 24:36, Daniel 9:27, Daniel 12:4, Ezekiel 38:8 and Psalm 90:10 are Watchman Media's own French translation of the King James Version (src \"kjv-fr\" in data/fr-lsg.json).",
    "minAppVersion": "1.0.0",
    "name": "French",
    "nativeName": "Français",
-   "path": "fr/1.0.13/pack.json"
+   "path": "fr/1.0.14/pack.json"
   },
   {
    "app": "prophecy-pulse",
@@ -117,16 +117,16 @@
   {
    "app": "prophecy-pulse",
    "lang": "hi",
-   "version": "1.0.14",
-   "sha256": "94360c1b07813487a9d300eed2b560cf7b73fd703e75aae1f20bae61d019c70e",
-   "size": 81860,
+   "version": "1.0.15",
+   "sha256": "c33cd70ca82239bfc06f8b21343e2bbbd6221aa670d45e5c18993e3d4c34eada",
+   "size": 81965,
    "bibleId": "irv",
    "license": "CC BY-SA 4.0",
    "attribution": "Indian Revised Version (IRV) Hindi 2019 (इंडियन रिवाइज्ड वर्जन हिंदी - 2019), © 2017, 2018, 2019 Bridge Connectivity Solutions Pvt. Ltd., licensed CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/). Text: eBible.org hin2017 (https://ebible.org/find/details.php?id=hin2017). Changes: footnotes and cross-references removed; arranged in KJV verse numbering (Rev 1:17-18 clause moved, Rev 12:18 joined to 13:1); Amos 3:7, Daniel 9:27, Daniel 12:1, Matthew 24:33 and Matthew 24:36 replaced by Watchman Media's own Hindi translation of the King James Version (src \"kjv-hi\"). Not endorsed by the licensor.",
    "minAppVersion": "1.0.0",
    "name": "Hindi",
    "nativeName": "हिन्दी",
-   "path": "hi/1.0.14/pack.json"
+   "path": "hi/1.0.15/pack.json"
   },
   {
    "app": "prophecy-pulse",
@@ -159,58 +159,58 @@
   {
    "app": "prophecy-pulse",
    "lang": "ko",
-   "version": "1.0.12",
-   "sha256": "c91e47d86addd7353c59b20db8d6768ff53326be5f983e54a9b2d7adb7c01cc5",
-   "size": 46115,
+   "version": "1.0.13",
+   "sha256": "c096174f3350f93e4cfe7946bf381ce66297a73129bf82f73ea1e39928b7309f",
+   "size": 46201,
    "bibleId": "kor1910",
    "license": "public-domain",
-   "attribution": "Korean Bible 1910 (성경전서, 1910 translation; Reynolds, 이승두, 김정삼), public domain. Text: eBible.org kor (https://ebible.org/find/details.php?id=kor). Isaiah 27:13 and Zechariah 12:3 repaired where the eBible file is corrupted; quotation marks removed. Matthew 24:33 is Watchman Media's own Korean translation of the King James Version (src \"kjv-ko\" in data/ko-kor1910.json).",
+   "attribution": "Korean Bible 1910 (성경전서, 1910 translation; Reynolds, 이승두, 김정삼), public domain. Text: eBible.org kor (https://ebible.org/find/details.php?id=kor). Isaiah 27:13 and Zechariah 12:3 repaired where the eBible file is corrupted; quotation marks removed. Daniel 9:27, Hosea 6:2, Matthew 24:33 and Matthew 24:36 are Watchman Media's own Korean translation of the King James Version (src \"kjv-ko\" in data/ko-kor1910.json).",
    "minAppVersion": "1.0.0",
    "name": "Korean",
    "nativeName": "한국어",
-   "path": "ko/1.0.12/pack.json"
+   "path": "ko/1.0.13/pack.json"
   },
   {
    "app": "prophecy-pulse",
    "lang": "ne",
-   "version": "1.0.12",
-   "sha256": "047cb36b22433c81dc9f62d67afb93199811dcff701187b18d893935729aeb38",
-   "size": 85351,
+   "version": "1.0.13",
+   "sha256": "2f65e35915abe1092074ec6b0ee138cbf0c5bf2c99ceb02b1d6a5c1d7cf603c6",
+   "size": 85685,
    "bibleId": "npiulb",
    "license": "CC BY-SA 4.0",
    "attribution": "Nepali Unlocked Literal Bible (पवित्र बाइबल), © 2019 Door43 World Missions Community. Licensed CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/). Text: eBible.org npiulb (https://ebible.org/find/details.php?id=npiulb). Changes: footnotes and cross-references removed; arranged in KJV verse numbering; Exodus 3:15, Deuteronomy 30:4, Amos 3:7, Daniel 2:44, Daniel 11:32, Ezekiel 38:8, Matthew 24:15, Matthew 24:33, Matthew 24:36, 2 Thessalonians 2:3 and Titus 2:13, 1 Thessalonians 4:17, 2 Thessalonians 2:4, John 14:2 replaced by Watchman Media's own Nepali translation of the King James Version (src \"kjv-ne\"); Western digits in Daniel 12:11. Not endorsed by the licensor.",
    "minAppVersion": "1.0.0",
    "name": "Nepali",
    "nativeName": "नेपाली",
-   "path": "ne/1.0.12/pack.json"
+   "path": "ne/1.0.13/pack.json"
   },
   {
    "app": "prophecy-pulse",
    "lang": "pt",
-   "version": "1.0.12",
-   "sha256": "84ccc24b2148c38ed56ee1eb1f140670b468ca127ac298cf55dda6bb7053f610",
-   "size": 36869,
+   "version": "1.0.13",
+   "sha256": "8dadc383d2d8791c29f9cc6ae98c079e5dbe6534c9175c7678abccd50b0b9482",
+   "size": 39497,
    "bibleId": "almeida1911",
    "license": "GPL",
    "attribution": "Almeida 1911 (João Ferreira de Almeida; 1911 reprint of the 1900 Lisbon edition). CrossWire SWORD module PorAlmeida1911 v0.2.1, distributed under the GNU GPL. https://www.crosswire.org/sword/modules/ModInfo.jsp?modName=PorAlmeida1911. Psalm 90:10 is Watchman Media's own Portuguese translation of the King James Version (src \"kjv-pt\" in data/pt-almeida1911.json).",
    "minAppVersion": "1.0.0",
    "name": "Portuguese",
    "nativeName": "Português",
-   "path": "pt/1.0.12/pack.json"
+   "path": "pt/1.0.13/pack.json"
   },
   {
    "app": "prophecy-pulse",
    "lang": "ru",
-   "version": "1.0.10",
-   "sha256": "2c411006d1602d076b0d4fdf9d7dddcaa64fa5bb49f43d29fd5307e678308930",
-   "size": 57255,
+   "version": "1.0.11",
+   "sha256": "d5a684fa4096a7c3130c4cf64ce8e2e3c0f93717cfc9b155023d58f9fb0ceaeb",
+   "size": 57360,
    "bibleId": "synodal",
    "license": "public-domain",
    "attribution": "Russian Synodal Translation (Синодальный перевод; NT 1862, full Bible 1876), public domain. Text: eBible.org russyn (https://ebible.org/find/details.php?id=russyn), modern orthography; quotation marks removed; arranged in KJV verse numbering. Genesis 2:9, Genesis 6:5, Exodus 32:32, Psalm 90:10 (Synodal 89:10), Daniel 9:27, Daniel 12:4 and Ezekiel 38:8 are Watchman Media's own Russian translation of the King James Version (src \"kjv-ru\" in data/ru-synodal.json).",
    "minAppVersion": "1.0.0",
    "name": "Russian",
    "nativeName": "Русский",
-   "path": "ru/1.0.10/pack.json"
+   "path": "ru/1.0.11/pack.json"
   },
   {
    "app": "prophecy-pulse",
@@ -229,16 +229,16 @@
   {
    "app": "prophecy-pulse",
    "lang": "ta",
-   "version": "1.0.10",
-   "sha256": "f6e8a691a6bc60588702c74b5fce1f4df144f45e21e53fe00127e48676eb029b",
-   "size": 99603,
+   "version": "1.0.11",
+   "sha256": "e481152a24b3273c5122f21fbbb4d8abdb70d786c28c229aaa239f7cdd80fb7c",
+   "size": 99819,
    "bibleId": "tam2017",
    "license": "CC BY-SA 4.0",
    "attribution": "Indian Revised Version (IRV) Tamil 2019 (இண்டியன் ரிவைஸ்டு வெர்ஸன் (IRV) - தமிழ்), © 2017, 2019 Bridge Connectivity Solutions Pvt. Ltd. Licensed CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/). Text: eBible.org tam2017 (https://ebible.org/find/details.php?id=tam2017). Changes: footnotes and cross-references removed; arranged in KJV verse numbering; Daniel 2:44, Daniel 11:32 and Matthew 24:33 replaced by Watchman Media's own Tamil translation of the King James Version (src \"kjv-ta\"). Not endorsed by the licensor.",
    "minAppVersion": "1.0.0",
    "name": "Tamil",
    "nativeName": "தமிழ்",
-   "path": "ta/1.0.10/pack.json"
+   "path": "ta/1.0.11/pack.json"
   },
   {
    "app": "prophecy-pulse",
@@ -257,16 +257,16 @@
   {
    "app": "prophecy-pulse",
    "lang": "tl",
-   "version": "1.0.13",
-   "sha256": "1d0997dfa73d39daef24eb8c4ccd7b4f6ba4f77e5840ab685ac4c8e524e86d8d",
-   "size": 45714,
+   "version": "1.0.14",
+   "sha256": "241edee5316d6b089dbc6bdd4583d4e2b2bb0e759cc00bfb36d9e068effbd943",
+   "size": 45819,
    "bibleId": "angbiblia1905",
    "license": "public-domain",
    "attribution": "Ang Biblia 1905 (Philippine Bible Society; Ang Dating Biblia), public domain. Text: CrossWire TagAngBiblia (https://www.crosswire.org/sword/modules/ModInfo.jsp?modName=TagAngBiblia). Matthew 24:33, Matthew 24:36 and Psalm 90:10 are Watchman Media's own Tagalog translation of the King James Version (src \"kjv-tl\" in data/tl-angbiblia1905.json).",
    "minAppVersion": "1.0.0",
    "name": "Tagalog",
    "nativeName": "Tagalog",
-   "path": "tl/1.0.13/pack.json"
+   "path": "tl/1.0.14/pack.json"
   },
   {
    "app": "prophecy-pulse",
@@ -285,30 +285,30 @@
   {
    "app": "prophecy-pulse",
    "lang": "ur",
-   "version": "1.0.13",
-   "sha256": "70c9b8846869ddf61e7463320dd6e1f8551396db323698cc73d707261816c207",
-   "size": 61254,
+   "version": "1.0.14",
+   "sha256": "8cb32ec15bf169f4845e6e4ac7cdb179c419f352cc682710edc56af73637b7e3",
+   "size": 61576,
    "bibleId": "urdoucv",
    "license": "CC BY-SA 4.0",
    "attribution": "Open Urdu Contemporary Version (Biblica® آزادانہ اردو ہم عصر ترجمہ), © 1999, 2005, 2022, 2024 Biblica, Inc. Licensed CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/). Text: eBible.org urdoucv (https://ebible.org/find/details.php?id=urdoucv). Changes: footnotes, cross-references and section headings removed; arranged in KJV verse numbering; Amos 3:7, Daniel 9:27, Daniel 11:32, Ezekiel 38:8, Matthew 24:36, 1 Thessalonians 5:4, John 14:2, 1 Thessalonians 4:17, 2 Thessalonians 2:4, Hosea 6:2 replaced by Watchman Media's own Urdu translation of the King James Version (src \"kjv-ur\"). Not endorsed by the licensor.",
    "minAppVersion": "1.0.0",
    "name": "Urdu",
    "nativeName": "اردو",
-   "path": "ur/1.0.13/pack.json"
+   "path": "ur/1.0.14/pack.json"
   },
   {
    "app": "prophecy-pulse",
    "lang": "vi",
-   "version": "1.0.12",
-   "sha256": "e274f3d2a75c8279387721fac697dc9701df423d74c6a9ec2d765fe67d40d137",
-   "size": 49943,
+   "version": "1.0.13",
+   "sha256": "edb3f24008540c89a76ab8e3e1b83e0842f9add7bd8cd9b701c133b1916b9292",
+   "size": 50048,
    "bibleId": "vie1934",
    "license": "public-domain",
    "attribution": "Vietnamese Bible 1923/1925 (Kinh Thánh, Cadman translation; NT 1923, OT 1925), public domain. Text: eBible.org vie1934 (https://ebible.org/find/details.php?id=vie1934); encoding glitches repaired. Matthew 24:33, Matthew 24:36 and Psalm 90:10 are Watchman Media's own Vietnamese translation of the King James Version (src \"kjv-vi\" in data/vi-vie1934.json).",
    "minAppVersion": "1.0.0",
    "name": "Vietnamese",
    "nativeName": "Tiếng Việt",
-   "path": "vi/1.0.12/pack.json"
+   "path": "vi/1.0.13/pack.json"
   },
   {
    "app": "prophecy-pulse",

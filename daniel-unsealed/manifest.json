@@ -1,6 +1,6 @@
 {
  "app": "daniel-unsealed",
- "generated": "2026-10-17T09:01:06.285Z",
+ "generated": "2026-10-17T09:07:36.725Z",
  "packs": [
   {
    "app": "daniel-unsealed",
@@ -47,44 +47,44 @@
   {
    "app": "daniel-unsealed",
    "lang": "es",
-   "version": "1.0.13",
-   "sha256": "7529ad1fe16caec187bed7a06991ad83876de8f46bd8b4144023cb34dda270d9",
-   "size": 183693,
+   "version": "1.0.14",
+   "sha256": "d040fe05ff825f50ec056c070db6b7a0e1adb2dfd0df6d0dc8af66ed513f231f",
+   "size": 183799,
    "bibleId": "rv1909",
    "license": "public-domain",
    "attribution": "Reina-Valera 1909, public domain. Text: eBible.org spaRV1909 (https://ebible.org/find/details.php?id=spaRV1909). Daniel 3:25, 8:19, 12:9, Luke 21:20 and Revelation 16:5 are Watchman Media's own Spanish translation of the King James Version (src \"kjv-es\" in data/es-rv1909.json).",
    "minAppVersion": "1.0.0",
    "name": "Spanish",
    "nativeName": "Español",
-   "path": "es/1.0.13/pack.json"
+   "path": "es/1.0.14/pack.json"
   },
   {
    "app": "daniel-unsealed",
    "lang": "fr",
-   "version": "1.0.13",
-   "sha256": "fd76e17dd0d09c92984936119b81be6f41fd0f416bf567e92c7559e9e1476659",
-   "size": 196475,
+   "version": "1.0.14",
+   "sha256": "ff8ef30ac5f11816533021052f2155249b458aad92f1c621e05a64d8a59494ff",
+   "size": 196937,
    "bibleId": "lsg",
    "license": "public-domain",
    "attribution": "Louis Segond 1910, public domain. Text: eBible.org fraLSG (https://ebible.org/find/details.php?id=fraLSG). Verses marked src \"kjv-fr\" in data/fr-lsg.json (Daniel 2:28, 3:25, 9:25-27, 11:32, 12:4; Ezekiel 38:8, 38:16; Psalm 90:10; Matthew 24:33, 36; Mark 13:29; 2 Thessalonians 2:4; and Revelation verses where the LSG follows a different Greek text from the KJV) are Watchman Media's own French translation of the King James Version.",
    "minAppVersion": "1.0.0",
    "name": "French",
    "nativeName": "Français",
-   "path": "fr/1.0.13/pack.json"
+   "path": "fr/1.0.14/pack.json"
   },
   {
    "app": "daniel-unsealed",
    "lang": "hi",
-   "version": "1.0.15",
-   "sha256": "ab0fcd09c1ecc2a7a40e8ea9f3bdb3b57dafd9e45242199aae8631266106d333",
-   "size": 396998,
+   "version": "1.0.16",
+   "sha256": "432c52ad6677f23636895630349c2098da4728bf592e2ad29f642722d9c7bc2d",
+   "size": 397110,
    "bibleId": "irv",
    "license": "CC BY-SA 4.0",
    "attribution": "Indian Revised Version (IRV) Hindi 2019 (इंडियन रिवाइज्ड वर्जन हिंदी - 2019), © 2017, 2018, 2019 Bridge Connectivity Solutions Pvt. Ltd., licensed CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/). Text: eBible.org hin2017 (https://ebible.org/find/details.php?id=hin2017). Changes: footnotes and cross-references removed; arranged in KJV verse numbering (Rev 1:17-18 clause moved, Rev 12:18 joined to 13:1, Rev 12:6 inline cross-reference removed); Psalm 90:10, Amos 3:7, Daniel 7:25, Daniel 9:25-27, Daniel 12:1, Daniel 12:4, Daniel 12:7, Matthew 24:33, Matthew 24:36, Revelation 10:6,, Revelation 1:8, 1:9, 1:11, 5:10, 5:14, 6:1, 6:3, 6:5, 6:7, 8:13, 11:8, 11:17, 12:17, 14:5, 15:3, 16:5, 16:17, 19:1, 20:9, 20:12, 21:24, 22:14, 22:19, 22:21 (where the IRV follows a non-KJV Greek text), John 14:2 replaced by Watchman Media's own Hindi translation of the King James Version (src \"kjv-hi\"). Not endorsed by the licensor.",
    "minAppVersion": "1.0.0",
    "name": "Hindi",
    "nativeName": "हिन्दी",
-   "path": "hi/1.0.15/pack.json"
+   "path": "hi/1.0.16/pack.json"
   },
   {
    "app": "daniel-unsealed",
@@ -104,11 +104,11 @@
    "app": "daniel-unsealed",
    "lang": "ko",
    "version": "1.0.6",
-   "sha256": "86b8ac9c054deb083ab3e4680f82d38c6bb2b75baf45f667256aa025a89923ee",
-   "size": 201010,
+   "sha256": "1ca4b49aff9b4a0071dd5a7a4fa8e16c9f51c136091221dce11b496915febb68",
+   "size": 201084,
    "bibleId": "kor1910",
    "license": "public-domain",
-   "attribution": "Korean Bible 1910 (성경전서; Reynolds, 이승두, 김정삼), public domain. Text: eBible.org kor (https://ebible.org/find/details.php?id=kor). Quotation marks removed; Isaiah 27:13, Zechariah 12:3 and Revelation 22:13 repaired where the eBible file is corrupted. Verses marked src \"kjv-ko\" in data/ko-kor1910.json (Matthew 24:33, Mark 13:29, and Revelation verses where the 1910 text follows a different Greek text from the KJV) are Watchman Media's own Korean translation of the King James Version.",
+   "attribution": "Korean Bible 1910 (성경전서; Reynolds, 이승두, 김정삼), public domain. Text: eBible.org kor (https://ebible.org/find/details.php?id=kor). Quotation marks removed; Isaiah 27:13, Zechariah 12:3 and Revelation 22:13 repaired where the eBible file is corrupted. Verses marked src \"kjv-ko\" in data/ko-kor1910.json (Daniel 3:25, 9:25-27; Hosea 6:2; Matthew 24:33, 36; Mark 13:29; and Revelation verses where the 1910 text follows a different Greek text from the KJV) are Watchman Media's own Korean translation of the King James Version.",
    "minAppVersion": "1.0.0",
    "name": "Korean",
    "nativeName": "한국어",
@@ -131,16 +131,16 @@
   {
    "app": "daniel-unsealed",
    "lang": "pt",
-   "version": "1.0.12",
-   "sha256": "477022c4f71ea4b27db87f3dd7ca32c7980be18481cd625eed79a64885805561",
-   "size": 173542,
+   "version": "1.0.13",
+   "sha256": "3f5134944c297ee6a2727d34d5955dd31a0b27981a67b062b17eea9a8ead4b01",
+   "size": 181256,
    "bibleId": "almeida1911",
    "license": "GPL",
    "attribution": "Almeida 1911 (João Ferreira de Almeida; 1911 reprint of the 1900 Lisbon edition). CrossWire SWORD module PorAlmeida1911 v0.2.1, distributed under the GNU GPL. https://www.crosswire.org/sword/modules/ModInfo.jsp?modName=PorAlmeida1911. Daniel 3:25, 8:14, 9:26, 12:4, Psalm 90:10 and Revelation 1:11, 22:14 are Watchman Media's own Portuguese translation of the King James Version (src \"kjv-pt\" in data/pt-almeida1911.json).",
    "minAppVersion": "1.0.0",
    "name": "Portuguese",
    "nativeName": "Português",
-   "path": "pt/1.0.12/pack.json"
+   "path": "pt/1.0.13/pack.json"
   },
   {
    "app": "daniel-unsealed",
