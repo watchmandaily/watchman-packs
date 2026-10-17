@@ -1,6 +1,6 @@
 {
  "app": "prophecy-pulse",
- "generated": "2026-10-17T08:35:20.457Z",
+ "generated": "2026-10-17T08:52:27.308Z",
  "packs": [
   {
    "app": "prophecy-pulse",
@@ -173,16 +173,16 @@
   {
    "app": "prophecy-pulse",
    "lang": "ne",
-   "version": "1.0.11",
-   "sha256": "36802ad161003bc590dc6407eec110ab5bebb4634ca305a4d766cc490f95dad6",
-   "size": 85350,
+   "version": "1.0.12",
+   "sha256": "047cb36b22433c81dc9f62d67afb93199811dcff701187b18d893935729aeb38",
+   "size": 85351,
    "bibleId": "npiulb",
    "license": "CC BY-SA 4.0",
    "attribution": "Nepali Unlocked Literal Bible (पवित्र बाइबल), © 2019 Door43 World Missions Community. Licensed CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/). Text: eBible.org npiulb (https://ebible.org/find/details.php?id=npiulb). Changes: footnotes and cross-references removed; arranged in KJV verse numbering; Exodus 3:15, Deuteronomy 30:4, Amos 3:7, Daniel 2:44, Daniel 11:32, Ezekiel 38:8, Matthew 24:15, Matthew 24:33, Matthew 24:36, 2 Thessalonians 2:3 and Titus 2:13, 1 Thessalonians 4:17, 2 Thessalonians 2:4, John 14:2 replaced by Watchman Media's own Nepali translation of the King James Version (src \"kjv-ne\"); Western digits in Daniel 12:11. Not endorsed by the licensor.",
    "minAppVersion": "1.0.0",
    "name": "Nepali",
    "nativeName": "नेपाली",
-   "path": "ne/1.0.11/pack.json"
+   "path": "ne/1.0.12/pack.json"
   },
   {
    "app": "prophecy-pulse",
@@ -215,8 +215,8 @@
   {
    "app": "prophecy-pulse",
    "lang": "sw",
-   "version": "1.0.7",
-   "sha256": "07cd89b0908fb6ad799505a987fd8f52c67aff8cd72e97d4921b4b73cb092786",
+   "version": "1.0.8",
+   "sha256": "5676f0d814b6883d4d045f68c84d5d1478e109202d3e6dd74f0cd9052457adda",
    "size": 41474,
    "bibleId": "swhulb",
    "license": "CC BY-SA 4.0",
@@ -224,7 +224,7 @@
    "minAppVersion": "1.0.0",
    "name": "Swahili",
    "nativeName": "Kiswahili",
-   "path": "sw/1.0.7/pack.json"
+   "path": "sw/1.0.8/pack.json"
   },
   {
    "app": "prophecy-pulse",
@@ -285,8 +285,8 @@
   {
    "app": "prophecy-pulse",
    "lang": "ur",
-   "version": "1.0.12",
-   "sha256": "ff100c8deed08a65f16ae695a0c6f1a271ff9b45bf80557b76a551b08dc50619",
+   "version": "1.0.13",
+   "sha256": "70c9b8846869ddf61e7463320dd6e1f8551396db323698cc73d707261816c207",
    "size": 61254,
    "bibleId": "urdoucv",
    "license": "CC BY-SA 4.0",
@@ -294,7 +294,7 @@
    "minAppVersion": "1.0.0",
    "name": "Urdu",
    "nativeName": "اردو",
-   "path": "ur/1.0.12/pack.json"
+   "path": "ur/1.0.13/pack.json"
   },
   {
    "app": "prophecy-pulse",
