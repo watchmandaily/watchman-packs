@@ -1,20 +1,20 @@
 {
  "app": "daniel-unsealed",
- "generated": "2026-10-17T09:17:45.910Z",
+ "generated": "2026-10-17T09:22:13.022Z",
  "packs": [
   {
    "app": "daniel-unsealed",
    "lang": "ar",
-   "version": "1.0.12",
-   "sha256": "e0a2f188da38368620b55a6a04c38b6d22e690f758f6096559ce3027331c2014",
-   "size": 312534,
+   "version": "1.0.13",
+   "sha256": "4de76864e2888bd8bda86b37bd955ee4b941c0a64f9678c68e60d95f443f6125",
+   "size": 312999,
    "bibleId": "svd",
    "license": "public-domain",
-   "attribution": "Smith-Van Dyck Arabic Bible (1865), public domain. Text: eBible.org arb-vd (https://ebible.org/find/details.php?id=arb-vd), translated by the Syrian Mission, contributed by the American Bible Society",
+   "attribution": "Smith-Van Dyck Arabic Bible (1865), public domain. Text: eBible.org arb-vd (https://ebible.org/find/details.php?id=arb-vd), translated by the Syrian Mission, contributed by the American Bible Society. Daniel 2:44, Daniel 3:25, Daniel 9:26, Daniel 9:27, Daniel 12:4, Psalm 90:10 and Revelation 16:5 are Watchman Media's own Arabic translation of the King James Version (src \"kjv-ar\" in data/ar-vd.json).",
    "minAppVersion": "1.0.0",
    "name": "Arabic (Van Dyck)",
    "nativeName": "العربية (فان دايك)",
-   "path": "ar/1.0.12/pack.json"
+   "path": "ar/1.0.13/pack.json"
   },
   {
    "app": "daniel-unsealed",
@@ -229,16 +229,16 @@
   {
    "app": "daniel-unsealed",
    "lang": "zh",
-   "version": "1.0.15",
-   "sha256": "23e8f2c05049f59f915b827ad6d0bfa752f3e74a660f26cb73973dbc55f66bf0",
-   "size": 153859,
+   "version": "1.0.16",
+   "sha256": "3aa2adc703577a7c349dfec2bdac02a0c04eb2f84286818ed8345c372cd889f7",
+   "size": 154538,
    "bibleId": "cuv1919",
    "license": "public-domain",
-   "attribution": "Chinese Union Version, Mandarin (官話和合譯本), 1919 first edition, public domain. Text: Chinese Wikisource (https://zh.wikisource.org/wiki/聖經_(和合本)), converted to simplified characters (OpenCC t2s + hand fixes); cross-checked with bible.fhl.net cumv",
+   "attribution": "Chinese Union Version, Mandarin (官話和合譯本), 1919 first edition, public domain. Text: Chinese Wikisource (https://zh.wikisource.org/wiki/聖經_(和合本)), converted to simplified characters (OpenCC t2s + hand fixes); cross-checked with bible.fhl.net cumv. Daniel 7:25, 9:17, 9:26, 9:27, 12:7, Revelation 2:27, 10:6, 12:14, 16:5, 19:1, Matthew 24:33, 24:36 and 2 Thessalonians 2:4 are Watchman Media's own Chinese translation of the King James Version (src \"kjv-zh\" in data/zh-cuv1919.json).",
    "minAppVersion": "1.0.0",
    "name": "Chinese",
    "nativeName": "中文",
-   "path": "zh/1.0.15/pack.json"
+   "path": "zh/1.0.16/pack.json"
   }
  ]
 }
