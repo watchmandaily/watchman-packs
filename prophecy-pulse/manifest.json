@@ -1,6 +1,6 @@
 {
  "app": "prophecy-pulse",
- "generated": "2026-10-17T07:46:26.093Z",
+ "generated": "2026-10-17T08:18:31.652Z",
  "packs": [
   {
    "app": "prophecy-pulse",
@@ -271,16 +271,16 @@
   {
    "app": "prophecy-pulse",
    "lang": "tr",
-   "version": "1.0.1",
-   "sha256": "e7769cc964a90179df8d53f7056e42a115ac7ad2b572f1ab3459348cd56d997d",
-   "size": 41256,
+   "version": "1.0.2",
+   "sha256": "7d595fa0912e6c2858ca3b7628e3e11f30d4f15bfede2ddd2bcb13a021ff213e",
+   "size": 41305,
    "bibleId": "turobt-kjv",
    "license": "CC BY-SA 4.0",
-   "attribution": "New Testament: Open Basic Turkish New Testament (Açık Lisans Temel Türkçe Tercüme İncil), © 2023 Biblica, Inc., The Translation Trust, OM UK and Global Nomads, licensed CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/). Text: eBible.org turobt (https://ebible.org/find/details.php?id=turobt). Changes: footnotes removed; arranged in KJV verse numbering; 2 Timothy 3:1, 2 Timothy 3:5, Matthew 24:15, Matthew 24:33, Matthew 24:36, Revelation 22:10, 2 Thessalonians 2:3, John 14:2 replaced by Watchman Media's own Turkish translation of the King James Version (src \"kjv-tr\"). This work has been changed from the original, and the licensors have not endorsed it. Old Testament: Watchman Media's own Turkish translation of the King James Version (src \"kjv-tr\"), released under the same CC BY-SA 4.0 license.",
+   "attribution": "New Testament: Open Basic Turkish New Testament (Açık Lisans Temel Türkçe Tercüme İncil), © 2023 Biblica, Inc., The Translation Trust, OM UK and Global Nomads, licensed CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/). Text: eBible.org turobt (https://ebible.org/find/details.php?id=turobt). Changes: footnotes removed; arranged in KJV verse numbering; 2 Timothy 3:1, 2 Timothy 3:5, Matthew 24:15, Matthew 24:33, Matthew 24:36, Revelation 22:10, 2 Thessalonians 2:3, John 14:2, Luke 21:28 replaced by Watchman Media's own Turkish translation of the King James Version (src \"kjv-tr\"). This work has been changed from the original, and the licensors have not endorsed it. Old Testament: Watchman Media's own Turkish translation of the King James Version (src \"kjv-tr\"), released under the same CC BY-SA 4.0 license.",
    "minAppVersion": "1.0.0",
    "name": "Turkish",
    "nativeName": "Türkçe",
-   "path": "tr/1.0.1/pack.json"
+   "path": "tr/1.0.2/pack.json"
   },
   {
    "app": "prophecy-pulse",
