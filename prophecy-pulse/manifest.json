@@ -1,6 +1,6 @@
 {
  "app": "prophecy-pulse",
- "generated": "2026-10-17T10:32:38.027Z",
+ "generated": "2026-10-17T10:51:59.543Z",
  "packs": [
   {
    "app": "prophecy-pulse",
@@ -19,8 +19,8 @@
   {
    "app": "prophecy-pulse",
    "lang": "ar",
-   "version": "1.0.17",
-   "sha256": "2c9d5feaf5f4c0b2aaf594063f509c38cb218d3e11a851bbb9e3ae75c1200ea2",
+   "version": "1.0.18",
+   "sha256": "c0eb8e659eaa54b3bb78d4847ba85d0d67bd22e907e45e029867f4a57ee07c0e",
    "size": 57056,
    "bibleId": "svd",
    "license": "public-domain",
@@ -28,7 +28,7 @@
    "minAppVersion": "1.0.0",
    "name": "Arabic (Van Dyck)",
    "nativeName": "العربية (فان دايك)",
-   "path": "ar/1.0.17/pack.json"
+   "path": "ar/1.0.18/pack.json"
   },
   {
    "app": "prophecy-pulse",
@@ -75,16 +75,16 @@
   {
    "app": "prophecy-pulse",
    "lang": "fa",
-   "version": "1.0.9",
-   "sha256": "15deaa592b385eba4db624442e9254f00518b54e809a91962efe17123b79f6f3",
-   "size": 55357,
+   "version": "1.0.10",
+   "sha256": "edc4ace2b476dc5861b9f332e01dd51e36783326c0020f7170f485e2d242568d",
+   "size": 55358,
    "bibleId": "pesopv",
    "license": "public-domain",
    "attribution": "Old Persian Version (ترجمه قدیم, 1895), public domain. Text: eBible.org pesOPV (https://ebible.org/find/details.php?id=pesOPV), printed spelling and spacing kept; arranged in KJV verse numbering (OPV Daniel 6:N+1 = KJV Daniel 6:N). These verses are Watchman Media's own KJV-meaning overrides: Daniel 9:27, Isaiah 40:10, Isaiah 62:11, Joel 2:28, Numbers 24:17, Psalm 90:10, Zechariah 12:10, Matthew 24:34, 2 Peter 3:8.",
    "minAppVersion": "1.0.0",
    "name": "Persian",
    "nativeName": "فارسی",
-   "path": "fa/1.0.9/pack.json"
+   "path": "fa/1.0.10/pack.json"
   },
   {
    "app": "prophecy-pulse",
@@ -271,30 +271,30 @@
   {
    "app": "prophecy-pulse",
    "lang": "tr",
-   "version": "1.0.5",
-   "sha256": "4fb10ec76c41ed8c96023ad25014f8824bfba333fce161b8895f3b31c3069168",
-   "size": 42397,
+   "version": "1.0.7",
+   "sha256": "1fcb8bb315c512aef006cc98b88cc9e7becd72a8185dd6044bf71de8b5997fdc",
+   "size": 41659,
    "bibleId": "turobt-kjv",
    "license": "CC BY-SA 4.0",
    "attribution": "New Testament: Open Basic Turkish New Testament™ (Açık Lisans Temel Türkçe Tercüme İncil™), Copyright © 2023 by Biblica, Inc., The Translation Trust, OM UK and Global Nomads, licensed CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/). Text: eBible.org turobt (https://ebible.org/find/details.php?id=turobt). Changes: footnotes removed; arranged in KJV verse numbering; 2 Timothy 3:1, 2 Timothy 3:5, Matthew 24:15, Matthew 24:33, Matthew 24:36, Revelation 22:10, 2 Thessalonians 2:3, John 14:2, Luke 21:28 replaced by Watchman Media's own Turkish translation of the King James Version. This work has been changed from the original, and the licensors have not endorsed it. The original Work by its copyright holders is available for free at www.biblica.com and open.bible. Old Testament: Watchman Media's own Turkish translation of the King James Version, released under the same CC BY-SA 4.0 license.",
    "minAppVersion": "1.0.0",
    "name": "Turkish",
    "nativeName": "Türkçe",
-   "path": "tr/1.0.5/pack.json"
+   "path": "tr/1.0.7/pack.json"
   },
   {
    "app": "prophecy-pulse",
    "lang": "ur",
-   "version": "1.0.16",
-   "sha256": "1463fd489423ea07f4cd15ea629ce18fe6faa18972682c8e943174eb70adb69d",
-   "size": 62999,
+   "version": "1.0.18",
+   "sha256": "b74ae3220b273d712e724a586198e4125c4886b8af23887d99fa74e9fc9db81d",
+   "size": 61646,
    "bibleId": "urdoucv",
    "license": "CC BY-SA 4.0",
    "attribution": "Biblica® Open Urdu Contemporary Version™ (Biblica® آزادانہ اردو ہم عصر ترجمہ™), Copyright © 1999, 2005, 2022, 2024 by Biblica, Inc. Licensed CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/). Text: eBible.org urdoucv (https://ebible.org/find/details.php?id=urdoucv). Changes: footnotes, cross-references and section headings removed; arranged in KJV verse numbering; Amos 3:7, Daniel 9:27, Daniel 11:32, Ezekiel 38:8, Matthew 24:36, 1 Thessalonians 5:4, John 14:2, 1 Thessalonians 4:17, 2 Thessalonians 2:4, Hosea 6:2 replaced by Watchman Media's own Urdu translation of the King James Version. Not endorsed by the licensor. The original Work by its copyright holders is available for free at www.biblica.com and open.bible. “Biblica” is a trademark registered in the United States Patent and Trademark Office by Biblica, Inc. Used with permission.",
    "minAppVersion": "1.0.0",
    "name": "Urdu",
    "nativeName": "اردو",
-   "path": "ur/1.0.16/pack.json"
+   "path": "ur/1.0.18/pack.json"
   },
   {
    "app": "prophecy-pulse",

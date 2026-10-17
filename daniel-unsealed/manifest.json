@@ -1,6 +1,6 @@
 {
  "app": "daniel-unsealed",
- "generated": "2026-10-17T10:34:03.829Z",
+ "generated": "2026-10-17T10:52:01.347Z",
  "packs": [
   {
    "app": "daniel-unsealed",
@@ -201,16 +201,16 @@
   {
    "app": "daniel-unsealed",
    "lang": "ur",
-   "version": "1.0.9",
-   "sha256": "7df3123cfdd0a4c7530b20e1838c659e65524d9c95076f8f4cc879162b84a09f",
-   "size": 310098,
+   "version": "1.0.11",
+   "sha256": "1012fdc1ea218acac84b3257ec49209593e99920849056561bea192f64b15d55",
+   "size": 308510,
    "bibleId": "urdoucv",
    "license": "CC BY-SA 4.0",
    "attribution": "Biblica® Open Urdu Contemporary Version™ (Biblica® آزادانہ اردو ہم عصر ترجمہ™), Copyright © 1999, 2005, 2022, 2024 by Biblica, Inc. Licensed CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/). Text: eBible.org urdoucv (https://ebible.org/find/details.php?id=urdoucv). Changes: footnotes, cross-references and section headings removed; arranged in KJV verse numbering (Rev 2:27-28 divided as in the KJV); 1 Thessalonians 5:4, Amos 3:7, Daniel 11:32, Daniel 12:4, Daniel 12:7, Daniel 3:25, Daniel 7:25, Daniel 9:25, Daniel 9:26, Daniel 9:27, Ezekiel 38:8, Matthew 24:36, Psalm 90:10, Revelation 10:6, Revelation 11:17, Revelation 11:8, Revelation 12:14, Revelation 12:17, Revelation 14:5, Revelation 15:3, Revelation 16:17, Revelation 16:5, Revelation 19:1, Revelation 1:11, Revelation 1:8, Revelation 1:9, Revelation 20:12, Revelation 20:9, Revelation 21:24, Revelation 22:14, Revelation 22:19, Revelation 22:21, Revelation 5:10, Revelation 5:14, Revelation 6:1, Revelation 6:3, Revelation 6:5, Revelation 6:7, Revelation 8:13, John 14:2, 1 Thessalonians 4:17, 2 Thessalonians 2:4, Hosea 6:2 replaced by Watchman Media's own Urdu translation of the King James Version. Not endorsed by the licensor. The original Work by its copyright holders is available for free at www.biblica.com and open.bible. “Biblica” is a trademark registered in the United States Patent and Trademark Office by Biblica, Inc. Used with permission.",
    "minAppVersion": "1.0.0",
    "name": "Urdu",
    "nativeName": "اردو",
-   "path": "ur/1.0.9/pack.json"
+   "path": "ur/1.0.11/pack.json"
   },
   {
    "app": "daniel-unsealed",
