@@ -1,6 +1,6 @@
 {
  "app": "daniel-unsealed",
- "generated": "2026-10-17T08:57:03.494Z",
+ "generated": "2026-10-17T09:01:06.285Z",
  "packs": [
   {
    "app": "daniel-unsealed",
@@ -103,16 +103,16 @@
   {
    "app": "daniel-unsealed",
    "lang": "ko",
-   "version": "1.0.5",
-   "sha256": "63e4149c1c7ba979b04efd0e6a909493fe9cbb2e434e3dda9a8fbc36fe64725f",
-   "size": 200992,
+   "version": "1.0.6",
+   "sha256": "86b8ac9c054deb083ab3e4680f82d38c6bb2b75baf45f667256aa025a89923ee",
+   "size": 201010,
    "bibleId": "kor1910",
    "license": "public-domain",
    "attribution": "Korean Bible 1910 (성경전서; Reynolds, 이승두, 김정삼), public domain. Text: eBible.org kor (https://ebible.org/find/details.php?id=kor). Quotation marks removed; Isaiah 27:13, Zechariah 12:3 and Revelation 22:13 repaired where the eBible file is corrupted. Verses marked src \"kjv-ko\" in data/ko-kor1910.json (Matthew 24:33, Mark 13:29, and Revelation verses where the 1910 text follows a different Greek text from the KJV) are Watchman Media's own Korean translation of the King James Version.",
    "minAppVersion": "1.0.0",
    "name": "Korean",
    "nativeName": "한국어",
-   "path": "ko/1.0.5/pack.json"
+   "path": "ko/1.0.6/pack.json"
   },
   {
    "app": "daniel-unsealed",
@@ -173,16 +173,16 @@
   {
    "app": "daniel-unsealed",
    "lang": "th",
-   "version": "1.0.13",
-   "sha256": "e1f35be4cba0bdf2449ba71c5dc96dea6d877f31ae1cc78ad72d5431ec004632",
-   "size": 457563,
+   "version": "1.0.14",
+   "sha256": "d130ac3d0bd815f45a9a3d3a5015e8d685aa5a803e41323300503a3807d55cb4",
+   "size": 457565,
    "bibleId": "thfb",
    "license": "public-domain",
    "attribution": "Thai Freedom Bible 2026 (eBible.org thafb, https://ebible.org/find/details.php?id=thafb), public domain, a draft translation; footnotes removed. Daniel, Ezekiel, Hosea, Joel, Amos and Zechariah (not yet in thafb), and the Revelation verses where thafb follows a different Greek text from the KJV, are Watchman Media's own Thai translation of the King James Version, independent of the Thai 1940/1971 texts. Each verse in data/th-fbkjv.json is marked src \"thafb\" or \"kjv-th\".",
    "minAppVersion": "1.0.0",
    "name": "Thai",
    "nativeName": "ไทย",
-   "path": "th/1.0.13/pack.json"
+   "path": "th/1.0.14/pack.json"
   },
   {
    "app": "daniel-unsealed",
