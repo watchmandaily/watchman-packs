@@ -1,6 +1,6 @@
 {
  "app": "daniel-unsealed",
- "generated": "2026-10-11T15:54:58.668Z",
+ "generated": "2026-10-17T08:57:03.494Z",
  "packs": [
   {
    "app": "daniel-unsealed",
@@ -117,8 +117,8 @@
   {
    "app": "daniel-unsealed",
    "lang": "ne",
-   "version": "1.0.3",
-   "sha256": "817f16b9be9b017f2e0351be6a6037407b70fde3233e70096d7d92c0cc6ac342",
+   "version": "1.0.4",
+   "sha256": "fd567c60f43b001e9fc0378a26ec0dfe835b7ccff7253a30c6d52b21f5d85fae",
    "size": 430323,
    "bibleId": "npiulb",
    "license": "CC BY-SA 4.0",
@@ -126,7 +126,7 @@
    "minAppVersion": "1.0.0",
    "name": "Nepali",
    "nativeName": "नेपाली",
-   "path": "ne/1.0.3/pack.json"
+   "path": "ne/1.0.4/pack.json"
   },
   {
    "app": "daniel-unsealed",
@@ -159,8 +159,8 @@
   {
    "app": "daniel-unsealed",
    "lang": "ta",
-   "version": "1.0.4",
-   "sha256": "5a8e4620436747935ab36ec314dd1cf6f4d86f95f2fe33eadc9fb4be397c8d66",
+   "version": "1.0.5",
+   "sha256": "514f0124eacd012df1cfd1ab08f9f9321b45b7dde86610b8df933954c9c89632",
    "size": 511687,
    "bibleId": "tam2017",
    "license": "CC BY-SA 4.0",
@@ -168,7 +168,7 @@
    "minAppVersion": "1.0.0",
    "name": "Tamil",
    "nativeName": "தமிழ்",
-   "path": "ta/1.0.4/pack.json"
+   "path": "ta/1.0.5/pack.json"
   },
   {
    "app": "daniel-unsealed",
