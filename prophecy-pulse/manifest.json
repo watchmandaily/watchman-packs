@@ -1,6 +1,6 @@
 {
  "app": "prophecy-pulse",
- "generated": "2026-10-17T08:27:49.854Z",
+ "generated": "2026-10-17T08:35:20.457Z",
  "packs": [
   {
    "app": "prophecy-pulse",
@@ -33,16 +33,16 @@
   {
    "app": "prophecy-pulse",
    "lang": "bn",
-   "version": "1.0.11",
-   "sha256": "b64202fc6ca2c3d9ad04832f13002ac42bea5e7c8d4c69810325a6bf117bf7ac",
-   "size": 82378,
+   "version": "1.0.12",
+   "sha256": "c486a42a3f8cbda529964b623c7268346b0dfd9866f0e5387732d78ae6dda104",
+   "size": 82657,
    "bibleId": "benirv",
    "license": "CC BY-SA 4.0",
-   "attribution": "Indian Revised Version (IRV) Bengali 2019 (ইন্ডিয়ান রিভাইজড ভার্সন (IRV) - বেঙ্গলী), © 2018, 2019 Bridge Connectivity Solutions Pvt. Ltd. Licensed CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/). Text: eBible.org benirv (https://ebible.org/find/details.php?id=benirv). Changes: footnotes and cross-references removed; arranged in KJV verse numbering; Amos 3:7, Daniel 11:32, Ezekiel 38:8, Matthew 24:33-34, Matthew 24:36, 2 Thessalonians 2:3, John 14:2, Daniel 9:27 replaced by Watchman Media's own Bengali translation of the King James Version (src \"kjv-bn\"). Not endorsed by the licensor.",
+   "attribution": "Indian Revised Version (IRV) Bengali 2019 (ইন্ডিয়ান রিভাইজড ভার্সন (IRV) - বেঙ্গলী), © 2018, 2019 Bridge Connectivity Solutions Pvt. Ltd. Licensed CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/). Text: eBible.org benirv (https://ebible.org/find/details.php?id=benirv). Changes: footnotes and cross-references removed; arranged in KJV verse numbering; Amos 3:7, Daniel 11:32, Ezekiel 38:8, Matthew 24:33-34, Matthew 24:36, 2 Thessalonians 2:3, John 14:2, Daniel 9:27 replaced by Watchman Media's own Bengali translation of the King James Version (src \"kjv-bn\"); Psalm 110:1 typo fix (collapsed a doubled Bengali vowel sign ুু → ু that appears in the eBible benirv source; still src \"benirv\"). Not endorsed by the licensor.",
    "minAppVersion": "1.0.0",
    "name": "Bengali",
    "nativeName": "বাংলা",
-   "path": "bn/1.0.11/pack.json"
+   "path": "bn/1.0.12/pack.json"
   },
   {
    "app": "prophecy-pulse",
@@ -103,8 +103,8 @@
   {
    "app": "prophecy-pulse",
    "lang": "he",
-   "version": "1.0.13",
-   "sha256": "d82803f7ee4a4b7903658f5144dd41c42cc4a27791ef7ca4d5b41306b7cffbc1",
+   "version": "1.0.14",
+   "sha256": "5514187c98246852744fcbb3c350cd11af49199d117f67a78029cb26b446188a",
    "size": 43465,
    "bibleId": "delitzsch",
    "license": "public-domain",
@@ -112,7 +112,7 @@
    "minAppVersion": "1.0.0",
    "name": "Hebrew",
    "nativeName": "עברית",
-   "path": "he/1.0.13/pack.json"
+   "path": "he/1.0.14/pack.json"
   },
   {
    "app": "prophecy-pulse",
