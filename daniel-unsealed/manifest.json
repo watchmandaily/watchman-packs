@@ -1,6 +1,6 @@
 {
  "app": "daniel-unsealed",
- "generated": "2026-10-17T09:27:08.037Z",
+ "generated": "2026-10-17T09:34:36.206Z",
  "packs": [
   {
    "app": "daniel-unsealed",
@@ -33,16 +33,16 @@
   {
    "app": "daniel-unsealed",
    "lang": "de",
-   "version": "1.0.16",
-   "sha256": "5492528bc93b3fa7ad23ba3234cf026e22f345cf9d8d1e635a99f4b440060a99",
-   "size": 190901,
+   "version": "1.0.17",
+   "sha256": "51107726eabce6015b6b38626721f00a7f14cfd74ae0df05602afbda15ec0d2b",
+   "size": 191007,
    "bibleId": "luther1912",
    "license": "public-domain",
    "attribution": "Luther 1912, public domain. Text: eBible.org deu1912 (https://ebible.org/find/details.php?id=deu1912); Daniel 12:11 stray semicolon removed. Verses marked src \"kjv-de\" in data/de-luther1912.json (Daniel 2:28, 2:44, 3:25, 7:25, 9:25-26, 12:4, 12:7; Isaiah 66:8; and Revelation 1:8, 6:1, 6:3, 6:5, 6:7, 11:17, 12:14, 14:1, 15:3, 16:5, 16:17, 19:6, 21:3, 22:19) are Watchman Media's own German translation of the King James Version.",
    "minAppVersion": "1.0.0",
    "name": "German",
    "nativeName": "Deutsch",
-   "path": "de/1.0.16/pack.json"
+   "path": "de/1.0.17/pack.json"
   },
   {
    "app": "daniel-unsealed",
@@ -61,16 +61,16 @@
   {
    "app": "daniel-unsealed",
    "lang": "fr",
-   "version": "1.0.16",
-   "sha256": "b6f4766d872f178403845c22443a55f24dfe9a30c40e2898e24e42637dda3633",
-   "size": 197156,
+   "version": "1.0.17",
+   "sha256": "a608a18160c818a950db9945e0ed3bdbdd88968b48c3e294ee79b322f3cfc53a",
+   "size": 197411,
    "bibleId": "lsg",
    "license": "public-domain",
    "attribution": "Louis Segond 1910, public domain. Text: eBible.org fraLSG (https://ebible.org/find/details.php?id=fraLSG). Verses marked src \"kjv-fr\" in data/fr-lsg.json (Daniel 2:28, 3:25, 9:25-27, 11:32, 12:4; Ezekiel 38:8, 38:16; Psalm 90:10; Matthew 24:33, 36; Mark 13:29; 2 Thessalonians 2:4; and Revelation verses where the LSG follows a different Greek text from the KJV) are Watchman Media's own French translation of the King James Version.",
    "minAppVersion": "1.0.0",
    "name": "French",
    "nativeName": "Français",
-   "path": "fr/1.0.16/pack.json"
+   "path": "fr/1.0.17/pack.json"
   },
   {
    "app": "daniel-unsealed",
@@ -89,30 +89,30 @@
   {
    "app": "daniel-unsealed",
    "lang": "ja",
-   "version": "1.0.10",
-   "sha256": "4eb39cd38fd135d2568e07fa3d50f92739540b42e801eb90e4903225477fc270",
-   "size": 187023,
+   "version": "1.0.11",
+   "sha256": "7a8ce8b1c8405a33ec5e7bd5e65e1629327d79c9e4817fec31b121404dc39d6f",
+   "size": 187301,
    "bibleId": "meiji",
    "license": "public-domain",
    "attribution": "Meiji Bible (明治元訳; OT 1887, NT 1880), public domain (PD-old). Text: Japanese Wikisource, 明治元訳旧約聖書 (1953 Japan Bible Society printing) and 明治元訳新約聖書 (大正4年, 1915 printing); ruby readings and page numbers removed; obvious transcription typos corrected. Verses marked src \"kjv-ja\" in data/ja-meiji.json (Numbers 24:17, Daniel 9:27, Hosea 6:2, Matthew 24:33-34, Mark 13:29-30, Revelation 2:27, 10:6, 12:14, 18:16-18, and Revelation verses where the Meiji text follows a different Greek text from the KJV) are Watchman Media's own Japanese translation of the King James Version.",
    "minAppVersion": "1.0.0",
    "name": "Japanese",
    "nativeName": "日本語",
-   "path": "ja/1.0.10/pack.json"
+   "path": "ja/1.0.11/pack.json"
   },
   {
    "app": "daniel-unsealed",
    "lang": "ko",
-   "version": "1.0.8",
-   "sha256": "5c8818e02764eacfa3b2b13b0ca306467961f598ee66a5dddd4a7c8bdd302ffc",
-   "size": 201347,
+   "version": "1.0.9",
+   "sha256": "ce799ac46559ce279913e9cc1ce4ab1bae46aa55b6bf12dbad75370be5fcb290",
+   "size": 201683,
    "bibleId": "kor1910",
    "license": "public-domain",
-   "attribution": "Korean Bible 1910 (성경전서; Reynolds, 이승두, 김정삼), public domain. Text: eBible.org kor (https://ebible.org/find/details.php?id=kor). Quotation marks removed; Isaiah 27:13, Zechariah 12:3 and Revelation 22:13 repaired where the eBible file is corrupted. Verses marked src \"kjv-ko\" in data/ko-kor1910.json (Daniel 3:25, 9:25-27; Hosea 6:2; Matthew 24:33, 36; Mark 13:29; and Revelation verses where the 1910 text follows a different Greek text from the KJV) are Watchman Media's own Korean translation of the King James Version.",
+   "attribution": "Korean Bible 1910 (성경전서; Reynolds, 이승두, 김정삼), public domain. Text: eBible.org kor (https://ebible.org/find/details.php?id=kor). Quotation marks removed; Isaiah 27:13, Zechariah 12:3 and Revelation 22:13 repaired where the eBible file is corrupted. Verses marked src \"kjv-ko\" in data/ko-kor1910.json (Daniel 3:25, 9:25-27; Hosea 6:2; Matthew 24:33, 36; Mark 13:29; Revelation 10:6 (an approved KJV-meaning override); and Revelation verses where the 1910 text follows a different Greek text from the KJV) are Watchman Media's own Korean translation of the King James Version.",
    "minAppVersion": "1.0.0",
    "name": "Korean",
    "nativeName": "한국어",
-   "path": "ko/1.0.8/pack.json"
+   "path": "ko/1.0.9/pack.json"
   },
   {
    "app": "daniel-unsealed",
@@ -145,16 +145,16 @@
   {
    "app": "daniel-unsealed",
    "lang": "ru",
-   "version": "1.0.6",
-   "sha256": "bb321e993372eaf243fa18cef0f1ce638ccd497b448e15c6c8a1a50ad4d83f35",
-   "size": 265905,
+   "version": "1.0.7",
+   "sha256": "a5af92bb8732c76d1b2898d19b8a4e712f3f37123b279da620fe96fb9d26183e",
+   "size": 266043,
    "bibleId": "synodal",
    "license": "public-domain",
    "attribution": "Russian Synodal Translation (Синодальный перевод; NT 1862, full Bible 1876), public domain. Text: eBible.org russyn (https://ebible.org/find/details.php?id=russyn), modern orthography; quotation marks removed; arranged in KJV verse numbering (Psalm 69:28 = Synodal 68:29, Psalm 90:10 = Synodal 89:10; Daniel 3:31-4:34 = KJV 4:1-37; Hosea 6:1, Revelation 1:10-11, 13:3-4, 18:2-3, 20:7-9 re-divided at KJV verse boundaries). Verses marked src \"kjv-ru\" in data/ru-synodal.json (Genesis 2:9, 6:5; Exodus 32:32; Psalm 90:10; Ezekiel 38:8; Daniel 2:44, 3:25, 3:30, 7:25, 9:25-27, 11:32, 12:4; Revelation 1:10, 6:1, 16:5, 18:2) are Watchman Media's own Russian translation of the King James Version.",
    "minAppVersion": "1.0.0",
    "name": "Russian",
    "nativeName": "Русский",
-   "path": "ru/1.0.6/pack.json"
+   "path": "ru/1.0.7/pack.json"
   },
   {
    "app": "daniel-unsealed",
@@ -187,16 +187,16 @@
   {
    "app": "daniel-unsealed",
    "lang": "tl",
-   "version": "1.0.4",
-   "sha256": "b4206e56f70cef0549a453ec48bb58b7e848f6deb6dadb0e77e4792e1b3ebbdb",
-   "size": 215230,
+   "version": "1.0.5",
+   "sha256": "39c4518966ec13ae1ac0caafbdcb9d72b6788020e1bdac836c1f0a1b77c4eac6",
+   "size": 215739,
    "bibleId": "angbiblia1905",
    "license": "public-domain",
    "attribution": "Ang Biblia 1905 (Philippine Bible Society; Ang Dating Biblia), public domain. Text: CrossWire TagAngBiblia (https://www.crosswire.org/sword/modules/ModInfo.jsp?modName=TagAngBiblia). Verses marked src \"kjv-tl\" are Watchman Media's own Tagalog translation of the King James Version (data/tl-angbiblia1905.json).",
    "minAppVersion": "1.0.0",
    "name": "Tagalog",
    "nativeName": "Tagalog",
-   "path": "tl/1.0.4/pack.json"
+   "path": "tl/1.0.5/pack.json"
   },
   {
    "app": "daniel-unsealed",
@@ -215,30 +215,30 @@
   {
    "app": "daniel-unsealed",
    "lang": "vi",
-   "version": "1.0.5",
-   "sha256": "b2dac3184b4b1baa72cc5cb8d4ddf300eab4b89331e1a65f4de01ca41b3ef04d",
-   "size": 226526,
+   "version": "1.0.6",
+   "sha256": "f6801b66a6e1ee62422b9be1e29631df645781ae857c371fbe6b22281dbc2a63",
+   "size": 227002,
    "bibleId": "vie1934",
    "license": "public-domain",
    "attribution": "Vietnamese Bible 1923/1925 (Kinh Thánh, Cadman translation; NT 1923, OT 1925), public domain. Text: eBible.org vie1934 (https://ebible.org/find/details.php?id=vie1934); encoding glitches repaired. Verses marked src \"kjv-vi\" are Watchman Media's own Vietnamese translation of the King James Version (data/vi-vie1934.json).",
    "minAppVersion": "1.0.0",
    "name": "Vietnamese",
    "nativeName": "Tiếng Việt",
-   "path": "vi/1.0.5/pack.json"
+   "path": "vi/1.0.6/pack.json"
   },
   {
    "app": "daniel-unsealed",
    "lang": "zh",
-   "version": "1.0.16",
-   "sha256": "3aa2adc703577a7c349dfec2bdac02a0c04eb2f84286818ed8345c372cd889f7",
-   "size": 154538,
+   "version": "1.0.17",
+   "sha256": "5567280b4a0fadf66e234c380e2d127f11bc6946cf5eb4200084fed70a35bd6a",
+   "size": 154555,
    "bibleId": "cuv1919",
    "license": "public-domain",
-   "attribution": "Chinese Union Version, Mandarin (官話和合譯本), 1919 first edition, public domain. Text: Chinese Wikisource (https://zh.wikisource.org/wiki/聖經_(和合本)), converted to simplified characters (OpenCC t2s + hand fixes); cross-checked with bible.fhl.net cumv. Daniel 7:25, 9:17, 9:26, 9:27, 12:7, Revelation 2:27, 10:6, 12:14, 16:5, 19:1, Matthew 24:33, 24:36 and 2 Thessalonians 2:4 are Watchman Media's own Chinese translation of the King James Version (src \"kjv-zh\" in data/zh-cuv1919.json).",
+   "attribution": "Chinese Union Version, Mandarin (官話和合譯本), 1919 first edition, public domain. Text: Chinese Wikisource (https://zh.wikisource.org/wiki/聖經_(和合本)), converted to simplified characters (OpenCC t2s + hand fixes); cross-checked with bible.fhl.net cumv. Daniel 7:25, 9:17, 9:26, 9:27, 12:7, Revelation 2:27, 10:6, 12:14, 16:5, 19:1, Mark 13:29, Matthew 24:33, 24:36 and 2 Thessalonians 2:4 are Watchman Media's own Chinese translation of the King James Version (src \"kjv-zh\" in data/zh-cuv1919.json).",
    "minAppVersion": "1.0.0",
    "name": "Chinese",
    "nativeName": "中文",
-   "path": "zh/1.0.16/pack.json"
+   "path": "zh/1.0.17/pack.json"
   }
  ]
 }

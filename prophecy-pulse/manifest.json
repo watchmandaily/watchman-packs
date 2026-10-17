@@ -1,6 +1,6 @@
 {
  "app": "prophecy-pulse",
- "generated": "2026-10-17T09:27:02.472Z",
+ "generated": "2026-10-17T09:34:30.867Z",
  "packs": [
   {
    "app": "prophecy-pulse",
@@ -47,30 +47,30 @@
   {
    "app": "prophecy-pulse",
    "lang": "de",
-   "version": "1.0.14",
-   "sha256": "b9029a44f0b40a593416d89ca0769578dc06b9b46c8e7a688289583b7f7395b8",
-   "size": 40980,
+   "version": "1.0.15",
+   "sha256": "ddce532deff8c5370a1093b714ea71e6d8d7d38e3d77b6fdfa36512f04acb110",
+   "size": 41159,
    "bibleId": "luther1912",
    "license": "public-domain",
    "attribution": "Luther 1912, public domain. Text: eBible.org deu1912 (https://ebible.org/find/details.php?id=deu1912). Daniel 12:4 and Isaiah 66:8 are Watchman Media's own German translation of the King James Version (src \"kjv-de\" in data/de-luther1912.json).",
    "minAppVersion": "1.0.0",
    "name": "German",
    "nativeName": "Deutsch",
-   "path": "de/1.0.14/pack.json"
+   "path": "de/1.0.15/pack.json"
   },
   {
    "app": "prophecy-pulse",
    "lang": "es",
-   "version": "1.0.14",
-   "sha256": "8e62e363f8a9d233ee60b36b0d0f4d8ba71ce21fd4cd684c0303efb6fe755318",
-   "size": 39920,
+   "version": "1.0.15",
+   "sha256": "a793dbf56894e25a23f4201e2809028e3a4fc46f6fa2a7de93d66f26c13f3fb6",
+   "size": 40099,
    "bibleId": "rv1909",
    "license": "public-domain",
    "attribution": "Reina-Valera 1909, public domain. Text: eBible.org spaRV1909 (https://ebible.org/find/details.php?id=spaRV1909). Luke 21:20 is Watchman Media's own Spanish translation of the King James Version (src \"kjv-es\" in data/es-rv1909.json).",
    "minAppVersion": "1.0.0",
    "name": "Spanish",
    "nativeName": "Español",
-   "path": "es/1.0.14/pack.json"
+   "path": "es/1.0.15/pack.json"
   },
   {
    "app": "prophecy-pulse",
@@ -89,16 +89,16 @@
   {
    "app": "prophecy-pulse",
    "lang": "fr",
-   "version": "1.0.14",
-   "sha256": "d4065ff8a0967a3c5f5de7f210c6d32378c08793b8d992298f1ebce77c16d598",
-   "size": 42234,
+   "version": "1.0.15",
+   "sha256": "617aac58f8909c23c1f42dea963289bdfc7b7aec47ab84ab53af07ae453e91d4",
+   "size": 42464,
    "bibleId": "lsg",
    "license": "public-domain",
    "attribution": "Louis Segond 1910, public domain. Text: eBible.org fraLSG (https://ebible.org/find/details.php?id=fraLSG). Matthew 24:33, Matthew 24:36, Daniel 9:27, Daniel 12:4, Ezekiel 38:8 and Psalm 90:10 are Watchman Media's own French translation of the King James Version (src \"kjv-fr\" in data/fr-lsg.json).",
    "minAppVersion": "1.0.0",
    "name": "French",
    "nativeName": "Français",
-   "path": "fr/1.0.14/pack.json"
+   "path": "fr/1.0.15/pack.json"
   },
   {
    "app": "prophecy-pulse",
@@ -187,30 +187,30 @@
   {
    "app": "prophecy-pulse",
    "lang": "pt",
-   "version": "1.0.13",
-   "sha256": "8dadc383d2d8791c29f9cc6ae98c079e5dbe6534c9175c7678abccd50b0b9482",
-   "size": 39497,
+   "version": "1.0.14",
+   "sha256": "dd2665a54838d3d5b1403ff216f36314842e9367c3a5a2bb4ac62094dbd70c43",
+   "size": 39727,
    "bibleId": "almeida1911",
    "license": "GPL",
    "attribution": "Almeida 1911 (João Ferreira de Almeida; 1911 reprint of the 1900 Lisbon edition). CrossWire SWORD module PorAlmeida1911 v0.2.1, distributed under the GNU GPL. https://www.crosswire.org/sword/modules/ModInfo.jsp?modName=PorAlmeida1911. Psalm 90:10 is Watchman Media's own Portuguese translation of the King James Version (src \"kjv-pt\" in data/pt-almeida1911.json).",
    "minAppVersion": "1.0.0",
    "name": "Portuguese",
    "nativeName": "Português",
-   "path": "pt/1.0.13/pack.json"
+   "path": "pt/1.0.14/pack.json"
   },
   {
    "app": "prophecy-pulse",
    "lang": "ru",
-   "version": "1.0.11",
-   "sha256": "d5a684fa4096a7c3130c4cf64ce8e2e3c0f93717cfc9b155023d58f9fb0ceaeb",
-   "size": 57360,
+   "version": "1.0.12",
+   "sha256": "6e49e66ba9a0e39577e9d11b99cc0adb48602128e7e416a311599b4add8d6ee2",
+   "size": 57749,
    "bibleId": "synodal",
    "license": "public-domain",
    "attribution": "Russian Synodal Translation (Синодальный перевод; NT 1862, full Bible 1876), public domain. Text: eBible.org russyn (https://ebible.org/find/details.php?id=russyn), modern orthography; quotation marks removed; arranged in KJV verse numbering. Genesis 2:9, Genesis 6:5, Exodus 32:32, Psalm 90:10 (Synodal 89:10), Daniel 9:27, Daniel 12:4 and Ezekiel 38:8 are Watchman Media's own Russian translation of the King James Version (src \"kjv-ru\" in data/ru-synodal.json).",
    "minAppVersion": "1.0.0",
    "name": "Russian",
    "nativeName": "Русский",
-   "path": "ru/1.0.11/pack.json"
+   "path": "ru/1.0.12/pack.json"
   },
   {
    "app": "prophecy-pulse",
