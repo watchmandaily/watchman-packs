@@ -1,20 +1,20 @@
 {
  "app": "daniel-unsealed",
- "generated": "2026-10-17T09:12:48.607Z",
+ "generated": "2026-10-17T09:13:32.938Z",
  "packs": [
   {
    "app": "daniel-unsealed",
    "lang": "ar",
-   "version": "1.0.10",
-   "sha256": "aae4b58fc60f05bc74f48324c08fdc1f5a5e17430ee1a55e578579adc8792bf7",
-   "size": 312271,
+   "version": "1.0.11",
+   "sha256": "dd30084fd87507a42400a1b5008ca7cbbcf5c874474662da62c3dda1b3b54e5f",
+   "size": 312429,
    "bibleId": "svd",
    "license": "public-domain",
    "attribution": "Smith-Van Dyck Arabic Bible (1865), public domain. Text: eBible.org arb-vd (https://ebible.org/find/details.php?id=arb-vd), translated by the Syrian Mission, contributed by the American Bible Society",
    "minAppVersion": "1.0.0",
    "name": "Arabic (Van Dyck)",
    "nativeName": "العربية (فان دايك)",
-   "path": "ar/1.0.10/pack.json"
+   "path": "ar/1.0.11/pack.json"
   },
   {
    "app": "daniel-unsealed",
@@ -89,16 +89,16 @@
   {
    "app": "daniel-unsealed",
    "lang": "ja",
-   "version": "1.0.5",
-   "sha256": "a1e95cec7bf3ffb22fc9a6b2721407bd21d08787079c0a6dee4ecaccdc9884ce",
-   "size": 186366,
+   "version": "1.0.7",
+   "sha256": "bb4c186a4c3ec74feeb119eabeb5efa6dd0478ee2cf2c21fc19f1fd8a3d1677d",
+   "size": 186673,
    "bibleId": "meiji",
    "license": "public-domain",
    "attribution": "Meiji Bible (明治元訳; OT 1887, NT 1880), public domain (PD-old). Text: Japanese Wikisource, 明治元訳旧約聖書 (1953 Japan Bible Society printing) and 明治元訳新約聖書 (大正4年, 1915 printing); ruby readings and page numbers removed; obvious transcription typos corrected. Verses marked src \"kjv-ja\" in data/ja-meiji.json (Numbers 24:17, Matthew 24:33-34, Mark 13:29-30, Revelation 18:16-18, and Revelation verses where the Meiji text follows a different Greek text from the KJV) are Watchman Media's own Japanese translation of the King James Version.",
    "minAppVersion": "1.0.0",
    "name": "Japanese",
    "nativeName": "日本語",
-   "path": "ja/1.0.5/pack.json"
+   "path": "ja/1.0.7/pack.json"
   },
   {
    "app": "daniel-unsealed",
