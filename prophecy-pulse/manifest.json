@@ -1,6 +1,6 @@
 {
  "app": "prophecy-pulse",
- "generated": "2026-10-17T09:15:44.307Z",
+ "generated": "2026-10-17T09:17:40.900Z",
  "packs": [
   {
    "app": "prophecy-pulse",
@@ -33,16 +33,16 @@
   {
    "app": "prophecy-pulse",
    "lang": "bn",
-   "version": "1.0.14",
-   "sha256": "4e294fbf467b397a331481c57c40381b6403aee355f19294bf589e144b25ca3c",
-   "size": 82949,
+   "version": "1.0.15",
+   "sha256": "4fb3538b8911f22892eb441569a620a85389e65c211d2447478bc2e60290bab7",
+   "size": 83064,
    "bibleId": "benirv",
    "license": "CC BY-SA 4.0",
-   "attribution": "Indian Revised Version (IRV) Bengali 2019 (ইন্ডিয়ান রিভাইজড ভার্সন (IRV) - বেঙ্গলী), © 2018, 2019 Bridge Connectivity Solutions Pvt. Ltd. Licensed CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/). Text: eBible.org benirv (https://ebible.org/find/details.php?id=benirv). Changes: footnotes and cross-references removed; arranged in KJV verse numbering; Amos 3:7, Daniel 11:32, Ezekiel 38:8, Matthew 24:33-34, Matthew 24:36, 2 Thessalonians 2:3, John 14:2, Daniel 9:27, Isaiah 44:6 replaced by Watchman Media's own Bengali translation of the King James Version (src \"kjv-bn\"); Psalm 110:1 typo fix (collapsed a doubled Bengali vowel sign ুু → ু that appears in the eBible benirv source; still src \"benirv\"). Not endorsed by the licensor.",
+   "attribution": "Indian Revised Version (IRV) Bengali 2019 (ইন্ডিয়ান রিভাইজড ভার্সন (IRV) - বেঙ্গলী), © 2018, 2019 Bridge Connectivity Solutions Pvt. Ltd. Licensed CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/). Text: eBible.org benirv (https://ebible.org/find/details.php?id=benirv). Changes: footnotes and cross-references removed; bracketed gloss \"[সদাপ্রভু]\" in Exodus 3:15 removed; arranged in KJV verse numbering; Amos 3:7, Daniel 11:32, Ezekiel 38:8, Matthew 24:33-34, Matthew 24:36, 2 Thessalonians 2:3, John 14:2, Daniel 9:27, Isaiah 44:6 replaced by Watchman Media's own Bengali translation of the King James Version (src \"kjv-bn\"); Psalm 110:1 typo fix (collapsed a doubled Bengali vowel sign ুু → ু that appears in the eBible benirv source; still src \"benirv\"). Not endorsed by the licensor.",
    "minAppVersion": "1.0.0",
    "name": "Bengali",
    "nativeName": "বাংলা",
-   "path": "bn/1.0.14/pack.json"
+   "path": "bn/1.0.15/pack.json"
   },
   {
    "app": "prophecy-pulse",
@@ -117,16 +117,16 @@
   {
    "app": "prophecy-pulse",
    "lang": "hi",
-   "version": "1.0.15",
-   "sha256": "c33cd70ca82239bfc06f8b21343e2bbbd6221aa670d45e5c18993e3d4c34eada",
-   "size": 81965,
+   "version": "1.0.16",
+   "sha256": "6d3717e5aeee30371a03869cf7cc06b042192df8d2eb9aaad2f69c1ed5ad5a43",
+   "size": 82124,
    "bibleId": "irv",
    "license": "CC BY-SA 4.0",
-   "attribution": "Indian Revised Version (IRV) Hindi 2019 (इंडियन रिवाइज्ड वर्जन हिंदी - 2019), © 2017, 2018, 2019 Bridge Connectivity Solutions Pvt. Ltd., licensed CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/). Text: eBible.org hin2017 (https://ebible.org/find/details.php?id=hin2017). Changes: footnotes and cross-references removed; arranged in KJV verse numbering (Rev 1:17-18 clause moved, Rev 12:18 joined to 13:1); Amos 3:7, Daniel 9:27, Daniel 12:1, Matthew 24:33 and Matthew 24:36 replaced by Watchman Media's own Hindi translation of the King James Version (src \"kjv-hi\"). Not endorsed by the licensor.",
+   "attribution": "Indian Revised Version (IRV) Hindi 2019 (इंडियन रिवाइज्ड वर्जन हिंदी - 2019), © 2017, 2018, 2019 Bridge Connectivity Solutions Pvt. Ltd., licensed CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/). Text: eBible.org hin2017 (https://ebible.org/find/details.php?id=hin2017). Changes: footnotes and cross-references removed; arranged in KJV verse numbering (Rev 1:17-18 clause moved, Rev 12:18 joined to 13:1); Amos 3:7, Daniel 9:27, Daniel 12:1, Matthew 24:33 and Matthew 24:36, Ezekiel 37:21 replaced by Watchman Media's own Hindi translation of the King James Version (src \"kjv-hi\"). Not endorsed by the licensor.",
    "minAppVersion": "1.0.0",
    "name": "Hindi",
    "nativeName": "हिन्दी",
-   "path": "hi/1.0.15/pack.json"
+   "path": "hi/1.0.16/pack.json"
   },
   {
    "app": "prophecy-pulse",
@@ -229,16 +229,16 @@
   {
    "app": "prophecy-pulse",
    "lang": "ta",
-   "version": "1.0.12",
-   "sha256": "00b6ec4a7a8b65586daf9e378cb8025fdf6dc673879295e7bc4193b2af772143",
-   "size": 100062,
+   "version": "1.0.13",
+   "sha256": "f1081c650d731a26b9e13b1f121e179cd6e665cf32d551b2905f0d6f2c0fc8af",
+   "size": 100042,
    "bibleId": "tam2017",
    "license": "CC BY-SA 4.0",
-   "attribution": "Indian Revised Version (IRV) Tamil 2019 (இண்டியன் ரிவைஸ்டு வெர்ஸன் (IRV) - தமிழ்), © 2017, 2019 Bridge Connectivity Solutions Pvt. Ltd. Licensed CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/). Text: eBible.org tam2017 (https://ebible.org/find/details.php?id=tam2017). Changes: footnotes and cross-references removed; arranged in KJV verse numbering; Daniel 2:44, Daniel 11:32 and Matthew 24:33, Jeremiah 16:14 replaced by Watchman Media's own Tamil translation of the King James Version (src \"kjv-ta\"). Not endorsed by the licensor.",
+   "attribution": "Indian Revised Version (IRV) Tamil 2019 (இண்டியன் ரிவைஸ்டு வெர்ஸன் (IRV) - தமிழ்), © 2017, 2019 Bridge Connectivity Solutions Pvt. Ltd. Licensed CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/). Text: eBible.org tam2017 (https://ebible.org/find/details.php?id=tam2017). Changes: footnotes and cross-references removed; arranged in KJV verse numbering; Daniel 2:44, Daniel 11:32 and Matthew 24:33, Jeremiah 16:14, Jeremiah 16:15 (\"saith the LORD\" that tam2017 moved here from 16:14 removed) replaced by Watchman Media's own Tamil translation of the King James Version (src \"kjv-ta\"). Not endorsed by the licensor.",
    "minAppVersion": "1.0.0",
    "name": "Tamil",
    "nativeName": "தமிழ்",
-   "path": "ta/1.0.12/pack.json"
+   "path": "ta/1.0.13/pack.json"
   },
   {
    "app": "prophecy-pulse",
