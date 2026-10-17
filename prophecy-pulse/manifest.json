@@ -1,20 +1,20 @@
 {
  "app": "prophecy-pulse",
- "generated": "2026-10-12T15:39:53.246Z",
+ "generated": "2026-10-17T07:40:33.677Z",
  "packs": [
   {
    "app": "prophecy-pulse",
    "lang": "am",
-   "version": "1.0.0",
-   "sha256": "6c0569eb72ae7a0d29bcb87c30bf0e648127262b2114bcbfddc6b2f0d63aa527",
-   "size": 49743,
+   "version": "1.0.1",
+   "sha256": "6d5affedc9cb1eb847431e18943e6f09ccd7c5a297e788887ff9341c68bf29b0",
+   "size": 49783,
    "bibleId": "am-kjv",
    "license": "public-domain",
-   "attribution": "Watchman Media's own Amharic translation of the King James Version (KJV, public domain), made independently (no copyrighted Amharic Bible consulted), KJV verse numbering; every verse follows the KJV meaning (src \"kjv-am\"). Draft: held until Brian approves and an Amharic reviewer checks it.",
+   "attribution": "Watchman Media's own Amharic translation of the King James Version (KJV, public domain), made independently (no copyrighted Amharic Bible consulted), KJV verse numbering; every verse follows the KJV meaning (src \"kjv-am\"). Live since Oct 12, 2026 (Brian approved); a native Amharic review is still recommended.",
    "minAppVersion": "1.0.0",
    "name": "Amharic",
    "nativeName": "አማርኛ",
-   "path": "am/1.0.0/pack.json"
+   "path": "am/1.0.1/pack.json"
   },
   {
    "app": "prophecy-pulse",
@@ -75,16 +75,16 @@
   {
    "app": "prophecy-pulse",
    "lang": "fa",
-   "version": "1.0.5",
-   "sha256": "8189438642fd6f6b20b34eb8bc4a03a1dc42d5a6447d711288d24f740be1b1a2",
-   "size": 50177,
+   "version": "1.0.6",
+   "sha256": "bdb1679efa25b6b3f1f3066aaa87620997fe1b816f29368a002aba8c27c5408e",
+   "size": 54562,
    "bibleId": "pesopv",
    "license": "public-domain",
    "attribution": "Old Persian Version (ترجمه قدیم, 1895), public domain. Text: eBible.org pesOPV (https://ebible.org/find/details.php?id=pesOPV), printed spelling and spacing kept; arranged in KJV verse numbering (OPV Daniel 6:N+1 = KJV Daniel 6:N). Verses marked src \"kjv-fa\" are Watchman Media's own KJV-meaning overrides: Daniel 9:27, Isaiah 40:10, Isaiah 62:11, Joel 2:28, Numbers 24:17, Psalm 90:10, Zechariah 12:10, Matthew 24:34, 2 Peter 3:8.",
    "minAppVersion": "1.0.0",
    "name": "Persian",
    "nativeName": "فارسی",
-   "path": "fa/1.0.5/pack.json"
+   "path": "fa/1.0.6/pack.json"
   },
   {
    "app": "prophecy-pulse",
@@ -103,16 +103,16 @@
   {
    "app": "prophecy-pulse",
    "lang": "he",
-   "version": "1.0.10",
-   "sha256": "2c54c9dbf68b5c7c501ac30cd302b729e105d81e5e2bf3e2d41fae5b11474a31",
-   "size": 39707,
+   "version": "1.0.11",
+   "sha256": "919f90c7c0202778333290dfa5ff29cb5bb545ac245a1f70c4b6d78784172806",
+   "size": 42861,
    "bibleId": "delitzsch",
    "license": "public-domain",
    "attribution": "Old Testament: Westminster Leningrad Codex, public domain (the app's bundled original text via Open Scriptures Hebrew Bible; shown without vowel points or accents). New Testament: Franz Delitzsch Hebrew New Testament, public domain. Text: eBible.org heb (https://ebible.org/find/details.php?id=heb). Matthew 24:33, Titus 2:13 and 2 Peter 3:8 are Watchman Media's own Hebrew renderings of the King James Version (\"it is near, even at the doors\"; \"the glorious appearing of the great God\"; src \"kjv-he\" in data/he-delitzsch.json).",
    "minAppVersion": "1.0.0",
    "name": "Hebrew",
    "nativeName": "עברית",
-   "path": "he/1.0.10/pack.json"
+   "path": "he/1.0.11/pack.json"
   },
   {
    "app": "prophecy-pulse",
@@ -130,31 +130,45 @@
   },
   {
    "app": "prophecy-pulse",
+   "lang": "id",
+   "version": "1.0.2",
+   "sha256": "85bf17016e2bd73c9d9c9c77f568bdb156fce6298af0fb804acebd1a58b09f94",
+   "size": 43540,
+   "bibleId": "kjvid",
+   "license": "public-domain",
+   "attribution": "Watchman Media's own Indonesian translation of the King James Version, made independently of the LAI Terjemahan Lama/Baru and of TSI. Every verse in data/id-kjvid.json is marked src \"kjv-id\". Approved by Brian, Oct 13, 2026.",
+   "minAppVersion": "1.0.0",
+   "name": "Indonesian",
+   "nativeName": "Bahasa Indonesia",
+   "path": "id/1.0.2/pack.json"
+  },
+  {
+   "app": "prophecy-pulse",
    "lang": "ja",
-   "version": "1.0.11",
-   "sha256": "8197310e25aa1818581ae9ad59c8423994866312476a6b253d62ad6e7c86b79f",
-   "size": 44603,
+   "version": "1.0.12",
+   "sha256": "70626596fa5a8111f71b1771e15dacc6b13bda206093d937e8252bf2bd999edd",
+   "size": 45291,
    "bibleId": "meiji",
    "license": "public-domain",
-   "attribution": "Meiji Bible (明治元訳; OT 1887, NT 1880), public domain (PD-old). Text: Japanese Wikisource, 明治元訳旧約聖書 (1953 Japan Bible Society printing) and 明治元訳新約聖書 (大正4年, 1915 printing); ruby readings and page numbers removed. Numbers 24:17 (not on Wikisource), Matthew 24:33 and Matthew 24:34 are Watchman Media's own Japanese translation of the King James Version. Each verse in data/ja-meiji.json is marked src \"meiji\" or \"kjv-ja\".",
+   "attribution": "Meiji Bible (明治元訳; OT 1887, NT 1880), public domain (PD-old). Text: Japanese Wikisource, 明治元訳旧約聖書 (1953 Japan Bible Society printing) and 明治元訳新約聖書 (大正4年, 1915 printing); ruby readings and page numbers removed. Numbers 24:17 (not on Wikisource), Matthew 24:33 and Matthew 24:34 are Watchman Media's own Japanese translation of the King James Version. 2 Thessalonians 2:4 and John 14:2 are Meiji text from the Wikisource 1904 printing (明治元訳新約聖書 (明治37年)). Each verse in data/ja-meiji.json is marked src \"meiji\" or \"kjv-ja\".",
    "minAppVersion": "1.0.0",
    "name": "Japanese",
    "nativeName": "日本語",
-   "path": "ja/1.0.11/pack.json"
+   "path": "ja/1.0.12/pack.json"
   },
   {
    "app": "prophecy-pulse",
    "lang": "ko",
-   "version": "1.0.9",
-   "sha256": "7d83c1cc75c68558db79b9ba459edd026e0abd178fde1c6d64e0d48856502d9b",
-   "size": 45133,
+   "version": "1.0.10",
+   "sha256": "753a56c948d33c06fd4f024c69a2aa176c3acf6afe2a0387752b6a1068d8288d",
+   "size": 45265,
    "bibleId": "kor1910",
    "license": "public-domain",
    "attribution": "Korean Bible 1910 (성경전서, 1910 translation; Reynolds, 이승두, 김정삼), public domain. Text: eBible.org kor (https://ebible.org/find/details.php?id=kor). Isaiah 27:13 and Zechariah 12:3 repaired where the eBible file is corrupted; quotation marks removed. Matthew 24:33 is Watchman Media's own Korean translation of the King James Version (src \"kjv-ko\" in data/ko-kor1910.json).",
    "minAppVersion": "1.0.0",
    "name": "Korean",
    "nativeName": "한국어",
-   "path": "ko/1.0.9/pack.json"
+   "path": "ko/1.0.10/pack.json"
   },
   {
    "app": "prophecy-pulse",
@@ -299,16 +313,16 @@
   {
    "app": "prophecy-pulse",
    "lang": "zh",
-   "version": "1.0.13",
-   "sha256": "f178fbd9b8c0be979811e89b90559b89fcdd8384a824b3160553eaf625d9031b",
-   "size": 35325,
+   "version": "1.0.14",
+   "sha256": "2ea7fd18c8173d9c02090e2c67d17768d8dfe9701d5bbe64e4eb59783aa83749",
+   "size": 36022,
    "bibleId": "cuv1919",
    "license": "public-domain",
    "attribution": "Chinese Union Version, Mandarin (官話和合譯本), 1919 first edition, public domain. Text: Chinese Wikisource (https://zh.wikisource.org/wiki/聖經_(和合本)), converted to simplified characters (OpenCC t2s + hand fixes); cross-checked with bible.fhl.net cumv",
    "minAppVersion": "1.0.0",
    "name": "Chinese",
    "nativeName": "中文",
-   "path": "zh/1.0.13/pack.json"
+   "path": "zh/1.0.14/pack.json"
   }
  ]
 }
